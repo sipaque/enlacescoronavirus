@@ -25,9 +25,6 @@
 ### Otros
 
 
-- Medium.com :: [etiqueta 'coronavirus'](https://medium.com/tag/coronavirus)
-
-
 - Menéame.net :: [Búsqueda 'coronavirus'](https://www.meneame.net/search?p=tags&q=+coronavirus)
 
 
@@ -189,6 +186,9 @@ Nota: excluídos por información manipulada o amarillenta: El Español, LaNacio
 
 
 - [CNN](https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-06-20-intl-hnk/index.html)
+
+
+- Medium.com :: [etiqueta 'coronavirus'](https://medium.com/tag/coronavirus)
 
 
 - [Mercury News](https://www.mercurynews.com/tag/coronavirus/)
