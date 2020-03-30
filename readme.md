@@ -12,13 +12,19 @@
 ### Twitter
 
 
-- [@sanidadgob - Ministerio de Sanidad, Consumo y Bienestar Social](https://twitter.com/sanidadgob/)
-
-
 - [@CoronavirusESP - Coronavirus Noticias](https://twitter.com/CoronavirusESP)
 
 
+- [@SanidadGob - Ministerio de Sanidad, Consumo y Bienestar Social](https://twitter.com/sanidadgob/)
+
+
+- [@WHO - World Health Organization](https://twitter.com/WHO)
+
+
 - [#Coronavirus](https://twitter.com/hashtag/coronavirus) / [#CoronavirusEspana](https://twitter.com/hashtag/coronavirusEspana)
+
+
+- [#Covid_19](https://twitter.com/hashtag/Covid_19)
 
 
 
@@ -38,7 +44,7 @@
 - Youtube :: [Live - Coronavirus Pandemic: Real Time Counter, World Map, News](https://www.youtube.com/watch?v=qgylp3Td1Bw)
 
 
-- Statista.com :: [El nuevo coronavirus (COVID-19) - Datos estadísticos](Ihttps://es.statista.com/temas/5901/el-coronavirus-de-wuhan/) (freemium)
+- Statista.com :: [El nuevo coronavirus (COVID-19) - Datos estadísticos](https://es.statista.com/temas/5901/el-coronavirus-de-wuhan/) (freemium)
 
 
 
@@ -87,7 +93,17 @@
 ## Medios
 
 
-Nota: excluídos por información manipulada o amarillenta: El Español, LaNacion.com.ar, RT / Russia Today.
+Nota: excluídos por información manipulada o amarillenta: El Español, Huffington Post, LaNacion.com.ar, Moncloa.com, RT / Russia Today.
+
+
+
+### Descarte de bulos
+
+
+- [Maldita.es](https://maldita.es)
+
+
+- [Newtral](https://www.newtral.es)
 
 
 
@@ -204,6 +220,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, LaNacio
 
 
 
+
 ## Agencias
 
 
@@ -217,6 +234,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, LaNacio
 
 
 
+
 ## Información general :: Gobiernos y agencias de sanidad
 
 
@@ -224,7 +242,10 @@ Nota: excluídos por información manipulada o amarillenta: El Español, LaNacio
 ### Gobierno y agencias españolas
 
 
-- Ministerio de Sanidad, Consumo y Bienestar Social :: [Enfermedad por nuevo coronavirus, COVID-19](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm) / [Situación actual](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) / **[Situación de COVID-19 en España](https://covid19.isciii.es)**
+- Ministerio de Sanidad, Consumo y Bienestar Social :: [Enfermedad por nuevo coronavirus, COVID-19](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm) / [Situación actual](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)
+
+
+- [Instituto de Salud Carlos III](https://www.isciii.es) / **[Situación de COVID-19 en España](https://covid19.isciii.es)** / [Informes](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Paginas/InformesCOVID-19.aspx)
 
 
 - [Generalitat de Catalunya - Agencia de Calidad y Evaluación Sanitarias / Mapa oficial casos positivos COVID-19](http://aquas.gencat.cat/.content/IntegradorServeis/mapa_covid/atlas.html)
@@ -240,13 +261,13 @@ Nota: excluídos por información manipulada o amarillenta: El Español, LaNacio
 - [Coronavirus disease (COVID-19) Pandemic](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (ENG)
 
 
-- - [Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) (ENG)
+    - [Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) (ENG)
 
 
 - [Brote de enfermedad por coronavirus (COVID-19)](https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019) (ESP)
 
 
-- - [Brote de enfermedad por coronavirus (COVID-19): orientaciones para el público](https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public) (ESP)
+    - [Brote de enfermedad por coronavirus (COVID-19): orientaciones para el público](https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public) (ESP)
 
 
 
@@ -329,51 +350,47 @@ Nota: excluídos por información manipulada o amarillenta: El Español, LaNacio
 
 
 
+
 ## Entrevistas y reportajes
 
 
-- [Coronavirus: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=c09m5f7Gnic) (2020/03/01)
+- [Coronavirus: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=c09m5f7Gnic) (Youtube - 2020/03/01)
 
 
-- [Here’s what coronavirus does to the body](https://www.nationalgeographic.com/science/2020/02/here-is-what-coronavirus-does-to-the-body/)
+- [Here’s what coronavirus does to the body](https://www.nationalgeographic.com/science/2020/02/here-is-what-coronavirus-does-to-the-body/) (National Geographic - 2020/02/18)
 
 
-- [El español que busca la vacuna del Covid-19 en EEUU: "No vamos a poder parar el virus"](https://www.elconfidencial.com/tecnologia/ciencia/2020-03-05/adolfo-garcia-sastre-covid19-vacunas-coronavirus_2482907/)
+- [El español que busca la vacuna del Covid-19 en EEUU: "No vamos a poder parar el virus"](https://www.elconfidencial.com/tecnologia/ciencia/2020-03-05/adolfo-garcia-sastre-covid19-vacunas-coronavirus_2482907/) (El Confidencial - 2020/03/05)
 
 
-- [Un virólogo español que investiga la vacuna del coronavirus: "Todos nos infectaremos, aunque sea de forma leve"](https://www.20minutos.es/noticia/4179219/0/virologo-espanol-estudia-vacuna-coronavirus-todos-infectaremos-forma-leve/)
+- [Un virólogo español que investiga la vacuna del coronavirus: "Todos nos infectaremos, aunque sea de forma leve"](https://www.20minutos.es/noticia/4179219/0/virologo-espanol-estudia-vacuna-coronavirus-todos-infectaremos-forma-leve/) (20 Minutos - 2020/03/09)
 
 
-- [Coronavirus symptoms explained - what happens when you get COVID-19 and how likely is a full recovery?](https://www.abc.net.au/news/2020-03-08/coronavirus-symptoms-explained-and-when-you-should-see-a-doctor/12024042)
+- [Coronavirus symptoms explained - what happens when you get COVID-19 and how likely is a full recovery?](https://www.abc.net.au/news/2020-03-08/coronavirus-symptoms-explained-and-when-you-should-see-a-doctor/12024042) (Abc.net.au - 2020/03/08, 2020/03/19)
 
 
-- [El coronavirus puede sobrevivir varios días y transmitirse por las heces](https://www.elmundo.es/ciencia-y-salud/salud/2020/03/10/5e677bfdfdddff2b9e8b4577.html)
+- [El coronavirus puede sobrevivir varios días y transmitirse por las heces](https://www.elmundo.es/ciencia-y-salud/salud/2020/03/10/5e677bfdfdddff2b9e8b4577.html) (El Mundo - 2020/03/11)
 
 
-- [Santiago Moreno, jefe de Infecciosas del Ramón y Cajal - "Hemos pecado de exceso de confianza. Nadie pensaba en esto"](https://elpais.com/sociedad/2020-03-13/hemos-pecado-de-exceso-de-confianza-nadie-pensaba-en-esto.html)
+- [Santiago Moreno, jefe de Infecciosas del Ramón y Cajal - "Hemos pecado de exceso de confianza. Nadie pensaba en esto"](https://elpais.com/sociedad/2020-03-13/hemos-pecado-de-exceso-de-confianza-nadie-pensaba-en-esto.html) (El País - 2020/03/14)
 
 
-- [Una doctora catalana que ha dado positivo: "El virus no sólo mata a gente mayor"](https://www.lavanguardia.com/vida/20200318/474243545401/coronavirus-doctora-catalana-positivo-virus-no-solo-mata-personas-mayores-lombardia.html)
+- [Una doctora catalana que ha dado positivo: "El virus no sólo mata a gente mayor"](https://www.lavanguardia.com/vida/20200318/474243545401/coronavirus-doctora-catalana-positivo-virus-no-solo-mata-personas-mayores-lombardia.html) (La Vanguardia - 2020/03/18)
 
 
-- [Qué hacer y qué NO hacer frente al coronavirus con Boticaria García. Especial COVID-19](https://www.youtube.com/watch?v=TbMdcvOmS2M)
+- [Qué hacer y qué NO hacer frente al coronavirus con Boticaria García. Especial COVID-19](https://www.youtube.com/watch?v=TbMdcvOmS2M) (Youtube - 2020/03/15) (comienza en 5:34)
 
 
-- [Why the Coronavirus Has Been So Successful](https://www.theatlantic.com/science/archive/2020/03/biography-new-coronavirus/608338/)
+- [Why the Coronavirus Has Been So Successful](https://www.theatlantic.com/science/archive/2020/03/biography-new-coronavirus/608338/) (The Atlantic - 2020/03/20)
 
 
-- ["Madrid ha sido un laboratorio neoliberal de las políticas sanitarias"](https://ctxt.es/es/20200302/Politica/31455/monica-garcia-gomez-mas-madrid-coronavirus-sanidad-publica.htm)
+- ["Madrid ha sido un laboratorio neoliberal de las políticas sanitarias"](https://ctxt.es/es/20200302/Politica/31455/monica-garcia-gomez-mas-madrid-coronavirus-sanidad-publica.htm) (CTXT - 2020/03/21)
 
 
-- [¿Por qué muchos pacientes se curan y especialmente los ancianos no?](https://theconversation.com/por-que-muchos-pacientes-se-curan-y-especialmente-los-ancianos-no-134932)
+- [¿Por qué muchos pacientes se curan y especialmente los ancianos no?](https://theconversation.com/por-que-muchos-pacientes-se-curan-y-especialmente-los-ancianos-no-134932) (The Conversation - 2020/03/27)
 
 
-- [Why the Coronavirus Has Been So Successful](https://www.theatlantic.com/science/archive/2020/03/biography-new-coronavirus/608338/)
+- [El daño colateral del gran hospital en Ifema: así queda desmantelada la atención primaria](https://elpais.com/espana/madrid/2020-03-28/el-dano-colateral-del-gran-hospital-en-ifema-asi-queda-desmantelada-la-atencion-primaria.html) (El País - 2020/03/28)
 
 
-- [El daño colateral del gran hospital en Ifema: así queda desmantelada la atención primaria](https://elpais.com/espana/madrid/2020-03-28/el-dano-colateral-del-gran-hospital-en-ifema-asi-queda-desmantelada-la-atencion-primaria.html)
-
-
-- [En primera persona: "Todos los días se nos mueren entre 15 y 20 personas en planta"](https://www.elconfidencial.com/espana/2020-03-28/coronavirus-hospitales-falta-medios-respiradores-madrid_2520508/)
-
-
+- [En primera persona: "Todos los días se nos mueren entre 15 y 20 personas en planta"](https://www.elconfidencial.com/espana/2020-03-28/coronavirus-hospitales-falta-medios-respiradores-madrid_2520508/) (El País - 2020/03/28)
