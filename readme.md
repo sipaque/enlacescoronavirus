@@ -5,7 +5,16 @@
 ### Reddit
 
 
-- **[/r/Coronavirus](https://www.reddit.com/r/Coronavirus)**
+- [COVID-19 (Coronavirus) - Live thread of the events around the Global Coronavirus Pandemic](https://www.reddit.com/live/14d816ty1ylvo/)
+
+
+- [/r/Coronavirus](https://www.reddit.com/r/Coronavirus)
+
+
+- [/r/COVID19](https://www.reddit.com/r/COVID19)
+
+
+- [/r/COVID19_Support](https://www.reddit.com/r/COVID19_Support)
 
 
 
@@ -51,6 +60,9 @@
 ## Gráficos / mapas / infografías
 
 
+- [nCoV2019.live](https://ncov2019.live)
+
+
 - [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 
@@ -78,6 +90,24 @@
 - [Coronastats.co](https://coronastats.co)
 
 
+- University Of Virginia :: [COVID-19 Cases and Clusters Outside of Mainland China](https://datastudio.google.com/reporting/f6ad0988-f203-45f8-8d18-5d726c1d2d8b/page/MGzDB)
+
+
+- [COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en)
+
+
+- [COVID19.FYI](https://covid19.fyi) (Mapa global y estadounidense)
+
+
+- [Tracking coronavirus: Map, data and timeline](https://bnonews.com/index.php/2020/03/the-latest-coronavirus-cases/)
+
+
+- [2019 Novel Coronavirus (2019-nCoV)](https://coronainfo.xyz)
+
+
+- [CoronaWiki.org](https://www.coronawiki.org)
+
+
 - [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)
 
 
@@ -97,7 +127,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 
-### Descarte de bulos
+### Desmentido de bulos
 
 
 - [Maldita.es](https://maldita.es)
@@ -221,7 +251,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 
-## Agencias
+## Agencias de noticias
 
 
 - [	EFE](https://www.efesalud.com/etiqueta/coronavirus/)
@@ -249,6 +279,9 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 - [Generalitat de Catalunya - Agencia de Calidad y Evaluación Sanitarias / Mapa oficial casos positivos COVID-19](http://aquas.gencat.cat/.content/IntegradorServeis/mapa_covid/atlas.html)
+
+
+- [Seguridad Social - Cuestiones sobre situación especial COVID-19](http://www.seg-social.es/wps/portal/wss/internet/FAQ/897e30db-3172-4528-987f-ab1ffde1b8e7)
 
 
 
@@ -305,6 +338,27 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 - [Sorveglianza integrata COVID-19: i principali dati nazionali](https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati)
+
+
+
+### Comisión Europea
+
+
+- [Coronavirus response](https://ec.europa.eu/info/live-work-travel-eu/health/coronavirus-response_en)
+
+
+
+### Organización de las Naciones Unidas para la Alimentación y la Agricultura
+
+
+- [Brote de enfermedad por coronavirus (COVID-19)](http://www.fao.org/2019-ncov/es/)
+
+
+
+### Naciones Unidas (UN)
+
+
+- [Enfermedad del coronavirus (COVID-19)](https://www.un.org/es/coronavirus)
 
 
 
@@ -366,19 +420,19 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 - [Un virólogo español que investiga la vacuna del coronavirus: "Todos nos infectaremos, aunque sea de forma leve"](https://www.20minutos.es/noticia/4179219/0/virologo-espanol-estudia-vacuna-coronavirus-todos-infectaremos-forma-leve/) (20 Minutos - 2020/03/09)
 
 
-- [Coronavirus symptoms explained - what happens when you get COVID-19 and how likely is a full recovery?](https://www.abc.net.au/news/2020-03-08/coronavirus-symptoms-explained-and-when-you-should-see-a-doctor/12024042) (Abc.net.au - 2020/03/08, 2020/03/19)
-
-
 - [El coronavirus puede sobrevivir varios días y transmitirse por las heces](https://www.elmundo.es/ciencia-y-salud/salud/2020/03/10/5e677bfdfdddff2b9e8b4577.html) (El Mundo - 2020/03/11)
 
 
 - [Santiago Moreno, jefe de Infecciosas del Ramón y Cajal - "Hemos pecado de exceso de confianza. Nadie pensaba en esto"](https://elpais.com/sociedad/2020-03-13/hemos-pecado-de-exceso-de-confianza-nadie-pensaba-en-esto.html) (El País - 2020/03/14)
 
 
+- [Qué hacer y qué NO hacer frente al coronavirus con Boticaria García. Especial COVID-19](https://www.youtube.com/watch?v=TbMdcvOmS2M) (Youtube - 2020/03/15) (comienza en 5:34)
+
+
 - [Una doctora catalana que ha dado positivo: "El virus no sólo mata a gente mayor"](https://www.lavanguardia.com/vida/20200318/474243545401/coronavirus-doctora-catalana-positivo-virus-no-solo-mata-personas-mayores-lombardia.html) (La Vanguardia - 2020/03/18)
 
 
-- [Qué hacer y qué NO hacer frente al coronavirus con Boticaria García. Especial COVID-19](https://www.youtube.com/watch?v=TbMdcvOmS2M) (Youtube - 2020/03/15) (comienza en 5:34)
+- [Coronavirus symptoms explained - what happens when you get COVID-19 and how likely is a full recovery?](https://www.abc.net.au/news/2020-03-08/coronavirus-symptoms-explained-and-when-you-should-see-a-doctor/12024042) (Abc.net.au - 2020/03/08, 2020/03/19)
 
 
 - [Why the Coronavirus Has Been So Successful](https://www.theatlantic.com/science/archive/2020/03/biography-new-coronavirus/608338/) (The Atlantic - 2020/03/20)
