@@ -123,7 +123,7 @@
 ## Medios
 
 
-Nota: excluídos por información manipulada o amarillenta: El Español, Huffington Post, LaNacion.com.ar, Moncloa.com, RT / Russia Today.
+Nota: excluídos por información manipulada o amarillenta: El Español, Huffington Post, LaNacion.com.ar, Moncloa.com, Okdiario, Público, RT / Russia Today.
 
 
 
@@ -140,88 +140,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 ### Españoles
 
 
-- [20Minutos](https://www.20minutos.es/minuteca/coronavirus/)
-
-
-- [ABC.es](https://www.abc.es/salud/enfermedades/coronavirus/)
-
-
-- [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus)
-
-
-- [Deia](https://www.deia.eus/tags/coronavirus.html)
-
-
-- [Diario16](https://diario16.com/tag/coronavirus/)
-
-
-- [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079)
-
-
-- [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html)
-
-
-- [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/)
-
-
-- [El Diario](https://www.eldiario.es/temas/coronavirus)
-
-
-- [El Mundo](https://www.elmundo.es/e/co/coronavirus.html)
-
-
-- [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html)
-
-
-- [El País](https://elpais.com/noticias/coronavirus/)
-
-
-- [El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419)
-
-
-- [Expansión](https://www.expansion.com/noticias/coronavirus.html)
-
-
-- [La Información](https://www.lainformacion.com/tags/coronavirus/)
-
-
-- [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html)
-
-
-- [La Provincia](https://www.laprovincia.es/tags/coronavirus.html)
-
-
-- [La Razón](https://www.larazon.es/tags/coronavirus/)
-
-
-- [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html)
-
-
-- [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html)
-
-
-- [La Nueva España](https://www.lne.es/tags/coronavirus.html)
-
-
-- [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html)
-
-
-- [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus)
-
-
-- [Público](https://www.publico.es/tag/coronavirus)
-
-
-- [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/)
-
-
-- [Telemadrid](http://www.telemadrid.es/coronavirus-covid-19-madrid/)
-
-
-- [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/)
-
-
-- [Xataka](https://www.xataka.com/tag/coronavirus-wuhan)
+[20Minutos](https://www.20minutos.es/minuteca/coronavirus/) // [ABC.es](https://www.abc.es/salud/enfermedades/coronavirus/) // [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus) // [Deia](https://www.deia.eus/tags/coronavirus.html) // [Diario16](https://diario16.com/tag/coronavirus/) // [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079) // [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html) // [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/) // [El Diario](https://www.eldiario.es/temas/coronavirus) // [El Mundo](https://www.elmundo.es/e/co/coronavirus.html) // [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html) // [El País](https://elpais.com/noticias/coronavirus/) //[El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419) // [Expansión](https://www.expansion.com/noticias/coronavirus.html) // [La Información](https://www.lainformacion.com/tags/coronavirus/) // [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html) // [La Provincia](https://www.laprovincia.es/tags/coronavirus.html) // [La Razón](https://www.larazon.es/tags/coronavirus/) // [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html) // [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html) // [La Nueva España](https://www.lne.es/tags/coronavirus.html) // [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html) // [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus) // [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/) // [Telemadrid](http://www.telemadrid.es/coronavirus-covid-19-madrid/) // [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/) // [Xataka](https://www.xataka.com/tag/coronavirus-wuhan)
 
 
 
@@ -426,7 +345,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 - [Santiago Moreno, jefe de Infecciosas del Ramón y Cajal - "Hemos pecado de exceso de confianza. Nadie pensaba en esto"](https://elpais.com/sociedad/2020-03-13/hemos-pecado-de-exceso-de-confianza-nadie-pensaba-en-esto.html) (El País - 2020/03/14)
 
 
-- [Qué hacer y qué NO hacer frente al coronavirus con Boticaria García. Especial COVID-19](https://www.youtube.com/watch?v=TbMdcvOmS2M) (Youtube - 2020/03/15) (comienza en 5:34)
+- [Qué hacer y qué NO hacer frente al coronavirus con Boticaria García. Especial COVID-19](https://www.youtube.com/watch?v=TbMdcvOmS2M) (Youtube - 2020/03/15 - grabado el 2020/03/14) (comienza en 5:34)
 
 
 - [Una doctora catalana que ha dado positivo: "El virus no sólo mata a gente mayor"](https://www.lavanguardia.com/vida/20200318/474243545401/coronavirus-doctora-catalana-positivo-virus-no-solo-mata-personas-mayores-lombardia.html) (La Vanguardia - 2020/03/18)
@@ -448,3 +367,10 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 - [En primera persona: "Todos los días se nos mueren entre 15 y 20 personas en planta"](https://www.elconfidencial.com/espana/2020-03-28/coronavirus-hospitales-falta-medios-respiradores-madrid_2520508/) (El País - 2020/03/28)
+
+
+- [Margarita del Val: "Nos estamos preparando para una segunda oleada de esta pandemia"](https://www.vozpopuli.com/altavoz/next/preparando-segunda-oleada-pandemia_0_1341466766.html) (Voz Pópuli - 2020/03/30)
+
+
+- [Tienen que escuchar a este experto de COVID-19 de Corea del Sur | Asian Boss Español](https://www.youtube.com/watch?v=xafPqcy3lwk) (Youtube - 2020/03/30 - grabado el 2020/03/24) (comienza en 1:34)
+
