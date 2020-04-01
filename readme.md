@@ -108,6 +108,9 @@
 - [CoronaWiki.org](https://www.coronawiki.org)
 
 
+- [The Lancet - COVID-19 infographics](https://www.thelancet.com/infographics/)
+
+
 - [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)
 
 
@@ -115,7 +118,10 @@
 ### Vídeos
 
 
-- Vimeo.com :: [Comparación sobre dispersión de partículas al toser](https://vimeo.com/399120258)
+- [Dr. John Campbell](https://www.youtube.com/user/Campbellteaching/videos) (Youtube)
+
+
+- [Comparación sobre dispersión de partículas al toser](https://vimeo.com/399120258) (Vimeo)
 
 
 
@@ -147,40 +153,14 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 ### Internacionales
 
 
-- [Al Jazeera](https://www.aljazeera.com/topics/events/coronavirus-outbreak.html)
-
-
-- [CNN](https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-06-20-intl-hnk/index.html)
-
-
-- Medium.com :: [etiqueta 'coronavirus'](https://medium.com/tag/coronavirus)
-
-
-- [Mercury News](https://www.mercurynews.com/tag/coronavirus/)
-
-
-- [NBC News](https://www.nbcnews.com/health/coronavirus)
-
-
-- [Newsweek](https://www.newsweek.com/topic/coronavirus)
-
-
-- [Wired](https://www.wired.com/tag/coronavirus/)
-
+[Al Jazeera](https://www.aljazeera.com/topics/events/coronavirus-outbreak.html) // [CNN](https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-06-20-intl-hnk/index.html) //  Medium.com :: [etiqueta 'coronavirus'](https://medium.com/tag/coronavirus) // [Mercury News](https://www.mercurynews.com/tag/coronavirus/) // [NBC News](https://www.nbcnews.com/health/coronavirus) // [Newsweek](https://www.newsweek.com/topic/coronavirus) // [Wired](https://www.wired.com/tag/coronavirus/)
 
 
 
 ## Agencias de noticias
 
 
-- [	EFE](https://www.efesalud.com/etiqueta/coronavirus/)
-
-
-- [Reuters](https://www.reuters.com/live-events/coronavirus-6-id2921484)
-
-
-- [The Associated Press](https://apnews.com/VirusOutbreak)
-
+[	EFE](https://www.efesalud.com/etiqueta/coronavirus/) // [Reuters](https://www.reuters.com/live-events/coronavirus-6-id2921484) // [The Associated Press](https://apnews.com/VirusOutbreak)
 
 
 
@@ -321,6 +301,12 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 - [COVID-19 Information & Resources](https://www.google.com/covid19/)
 
+
+
+### The Lancet
+
+
+- [COVID-19 Resource Centre](https://www.thelancet.com/coronavirus)
 
 
 
