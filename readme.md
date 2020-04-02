@@ -111,7 +111,46 @@
 - [The Lancet - COVID-19 infographics](https://www.thelancet.com/infographics/)
 
 
-- [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)
+- [Corona Notifier](https://coronanotifier.com)
+
+
+- [EU COVID-19 Country Statistics](https://covid19eu.jonur.io)
+
+
+- [Corona Statistics](https://coronastatistics.live)
+
+
+- [Covid-19 How bad is it?](https://faizalazman.github.io)
+
+
+- [COVID-19 Tracker](https://energ.ee/corona-virus/)
+
+
+- [COVID-19 graphs](https://felipec.github.io/covid-19/) :: [Infection trajectory](https://felipec.github.io/covid-19/trajectory.html) / [Infection growth factor](https://felipec.github.io/covid-19/rate.html)
+
+
+- [COVID-19 Regional Relative Timeseries](https://zbraniecki.github.io/covid19-timeseries/)
+
+
+- [COVID-19 Report](https://nodimon.github.io/covid-19-report/)
+
+
+- [Coronavirus - COVID-19 Travel Restrictions Country Borders Closed](https://www.travelsignals.io/coronavirus-country-travel-bans/)
+
+
+- [COVID Reports](https://covidreports.netlify.com)
+
+
+- [#daysbehinditaly](https://daysbehinditaly.com)
+
+
+- [COVID19 Map.io](https://covid19map.io)
+
+
+- [Coronavirus Global Statistics](https://coronavirus-meter.com)
+
+
+- [COVID-19 World Monitoring](https://covid.ngaah.id)
 
 
 
@@ -123,6 +162,18 @@
 
 - [Comparación sobre dispersión de partículas al toser](https://vimeo.com/399120258) (Vimeo)
 
+
+
+### Otros
+
+
+- [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)
+
+
+- [Epidemic Simulator](https://epidemic-simulator.now.sh)
+
+
+- [Modelización epidemiológica del COVID-19](https://covid19.webs.upv.es/index.html) (Grupo de investigación MUNQU de la Universitat Politècnica de València)
 
 
 
@@ -146,7 +197,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 ### Españoles
 
 
-[20Minutos](https://www.20minutos.es/minuteca/coronavirus/) // [ABC.es](https://www.abc.es/salud/enfermedades/coronavirus/) // [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus) // [Deia](https://www.deia.eus/tags/coronavirus.html) // [Diario16](https://diario16.com/tag/coronavirus/) // [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079) // [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html) // [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/) // [El Diario](https://www.eldiario.es/temas/coronavirus) // [El Mundo](https://www.elmundo.es/e/co/coronavirus.html) // [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html) // [El País](https://elpais.com/noticias/coronavirus/) //[El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419) // [Expansión](https://www.expansion.com/noticias/coronavirus.html) // [La Información](https://www.lainformacion.com/tags/coronavirus/) // [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html) // [La Provincia](https://www.laprovincia.es/tags/coronavirus.html) // [La Razón](https://www.larazon.es/tags/coronavirus/) // [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html) // [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html) // [La Nueva España](https://www.lne.es/tags/coronavirus.html) // [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html) // [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus) // [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/) // [Telemadrid](http://www.telemadrid.es/coronavirus-covid-19-madrid/) // [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/) // [Xataka](https://www.xataka.com/tag/coronavirus-wuhan)
+[20Minutos](https://www.20minutos.es/minuteca/coronavirus/) // [ABC.es](https://www.abc.es/salud/enfermedades/coronavirus/) // [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus) // [Deia](https://www.deia.eus/tags/coronavirus.html) // [Diario16](https://diario16.com/tag/coronavirus/) // [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079) // [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html) // [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/) // [El Diario](https://www.eldiario.es/temas/coronavirus) // [El Mundo](https://www.elmundo.es/e/co/coronavirus.html) // [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html) // [El País](https://elpais.com/noticias/coronavirus/) // [El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419) // [Expansión](https://www.expansion.com/noticias/coronavirus.html) // [La Información](https://www.lainformacion.com/tags/coronavirus/) // [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html) // [La Provincia](https://www.laprovincia.es/tags/coronavirus.html) // [La Razón](https://www.larazon.es/tags/coronavirus/) // [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html) // [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html) // [La Nueva España](https://www.lne.es/tags/coronavirus.html) // [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html) // [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus) // [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/) // [Telemadrid](https://www.telemadrid.es/coronavirus-covid-19-madrid/) // [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/) // [Xataka](https://www.xataka.com/tag/coronavirus-wuhan)
 
 
 
@@ -177,17 +228,17 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 - [Instituto de Salud Carlos III](https://www.isciii.es) / **[Situación de COVID-19 en España](https://covid19.isciii.es)** / [Informes](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Paginas/InformesCOVID-19.aspx)
 
 
-- [Generalitat de Catalunya - Agencia de Calidad y Evaluación Sanitarias / Mapa oficial casos positivos COVID-19](http://aquas.gencat.cat/.content/IntegradorServeis/mapa_covid/atlas.html)
+- [Generalitat de Catalunya - Agencia de Calidad y Evaluación Sanitarias / Mapa oficial casos positivos COVID-19](https://aquas.gencat.cat/.content/IntegradorServeis/mapa_covid/atlas.html)
 
 
-- [Seguridad Social - Cuestiones sobre situación especial COVID-19](http://www.seg-social.es/wps/portal/wss/internet/FAQ/897e30db-3172-4528-987f-ab1ffde1b8e7)
+- [Seguridad Social - Cuestiones sobre situación especial COVID-19](https://www.seg-social.es/wps/portal/wss/internet/FAQ/897e30db-3172-4528-987f-ab1ffde1b8e7)
 
 
 
 ### OMS (Organización Mundial de la Salud) / WHO (World Health Organization)
 
 
-- **[Situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)**
+- **[Situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)** (PDF)
 
 
 - [Coronavirus disease (COVID-19) Pandemic](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (ENG)
@@ -213,6 +264,13 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 
+### CCDC (Chinese Center for Disease Control and Prevention)
+
+
+- [Tracking the Epidemic](https://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm) (PDF)
+
+
+
 ### National Health Service (NHS / UK) 
 
 
@@ -230,13 +288,13 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 
-### Istituto Superiore di Sanità (ISS / ITA)
+### Gobierno y agencias italianas
 
 
-- [Coronavirus](https://www.epicentro.iss.it/coronavirus/)
+- Istituto Superiore di Sanità (ISS / ITA) :: [Coronavirus](https://www.epicentro.iss.it/coronavirus/) / [Sorveglianza integrata COVID-19: i principali dati nazionali](https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati)
 
 
-- [Sorveglianza integrata COVID-19: i principali dati nazionali](https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati)
+- Ministero della Salute :: [Nuovo coronavirus](https://www.salute.gov.it/nuovocoronavirus)
 
 
 
@@ -250,7 +308,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 ### Organización de las Naciones Unidas para la Alimentación y la Agricultura
 
 
-- [Brote de enfermedad por coronavirus (COVID-19)](http://www.fao.org/2019-ncov/es/)
+- [Brote de enfermedad por coronavirus (COVID-19)](https://www.fao.org/2019-ncov/es/)
 
 
 
@@ -259,6 +317,12 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 - [Enfermedad del coronavirus (COVID-19)](https://www.un.org/es/coronavirus)
 
+
+
+### Government Of Canada
+
+
+- [Coronavirus disease (COVID-19)](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html)
 
 
 
@@ -276,6 +340,9 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 - [en.Wikipedia - 2020 coronavirus pandemic in the United States](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States)
+
+
+- [es.Wikipedia - Pandemia de enfermedad por coronavirus de 2019-2020](https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2019-2020)
 
 
 - [es.Wikipedia - COVID-19](https://es.wikipedia.org/wiki/COVID-19)
@@ -359,4 +426,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 - [Tienen que escuchar a este experto de COVID-19 de Corea del Sur | Asian Boss Español](https://www.youtube.com/watch?v=xafPqcy3lwk) (Youtube - 2020/03/30 - grabado el 2020/03/24) (comienza en 1:34)
+
+
+- [Fernando Rodríguez Artalejo, epidemiólogo: "El confinamiento se alargará y la vuelta al trabajo la tendremos que hacer de forma escalonada"](https://www.eldiario.es/sociedad/Epidemiologo-entrevista_0_1011749916.html) (El Diario - 2020/04/01)
 
