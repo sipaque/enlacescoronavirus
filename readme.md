@@ -57,7 +57,7 @@
 
 
 
-## Gráficos / mapas / infografías
+## Gráficos / Mapas / Infografías
 
 
 - [nCoV2019.live](https://ncov2019.live)
@@ -153,14 +153,7 @@
 - [COVID-19 World Monitoring](https://covid.ngaah.id)
 
 
-
-### Vídeos
-
-
-- [Dr. John Campbell](https://www.youtube.com/user/Campbellteaching/videos) (Youtube)
-
-
-- [Comparación sobre dispersión de partículas al toser](https://vimeo.com/399120258) (Vimeo)
+- [Covid Trends](https://aatishb.com/covidtrends/)
 
 
 
@@ -326,7 +319,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 
-## Información general :: entidades privadas
+## Información general :: Entidades privadas
 
 
 
@@ -377,10 +370,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 
-## Entrevistas y reportajes
-
-
-- [Coronavirus: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=c09m5f7Gnic) (Youtube - 2020/03/01)
+## Entrevistas
 
 
 - [Here’s what coronavirus does to the body](https://www.nationalgeographic.com/science/2020/02/here-is-what-coronavirus-does-to-the-body/) (National Geographic - 2020/02/18)
@@ -396,9 +386,6 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 - [Santiago Moreno, jefe de Infecciosas del Ramón y Cajal - "Hemos pecado de exceso de confianza. Nadie pensaba en esto"](https://elpais.com/sociedad/2020-03-13/hemos-pecado-de-exceso-de-confianza-nadie-pensaba-en-esto.html) (El País - 2020/03/14)
-
-
-- [Qué hacer y qué NO hacer frente al coronavirus con Boticaria García. Especial COVID-19](https://www.youtube.com/watch?v=TbMdcvOmS2M) (Youtube - 2020/03/15 - grabado el 2020/03/14) (comienza en 5:34)
 
 
 - [Una doctora catalana que ha dado positivo: "El virus no sólo mata a gente mayor"](https://www.lavanguardia.com/vida/20200318/474243545401/coronavirus-doctora-catalana-positivo-virus-no-solo-mata-personas-mayores-lombardia.html) (La Vanguardia - 2020/03/18)
@@ -425,8 +412,48 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 - [Margarita del Val: "Nos estamos preparando para una segunda oleada de esta pandemia"](https://www.vozpopuli.com/altavoz/next/preparando-segunda-oleada-pandemia_0_1341466766.html) (Voz Pópuli - 2020/03/30)
 
 
-- [Tienen que escuchar a este experto de COVID-19 de Corea del Sur | Asian Boss Español](https://www.youtube.com/watch?v=xafPqcy3lwk) (Youtube - 2020/03/30 - grabado el 2020/03/24) (comienza en 1:34)
+- [Tienen que escuchar a este experto de COVID-19 de Corea del Sur](https://www.youtube.com/watch?v=xafPqcy3lwk) (Asian Boss Español @ Youtube - 2020/03/30 - grabado el 2020/03/24) (comienza en 1:34)
 
 
 - [Fernando Rodríguez Artalejo, epidemiólogo: "El confinamiento se alargará y la vuelta al trabajo la tendremos que hacer de forma escalonada"](https://www.eldiario.es/sociedad/Epidemiologo-entrevista_0_1011749916.html) (El Diario - 2020/04/01)
+
+
+
+## Vídeos divulgativos / Reportajes
+
+
+- [What Actually Happens If You Get Coronavirus?](https://www.youtube.com/watch?v=OTYfke545vI) (AsapSCIENCE @ Youtube - 2020/01/29)
+
+
+- [Coronavirus: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=c09m5f7Gnic) (LastWeekTonight @ Youtube - 2020/03/01)
+
+
+- [Qué hacer y qué NO hacer frente al coronavirus con Boticaria García. Especial COVID-19](https://www.youtube.com/watch?v=TbMdcvOmS2M) (Cristina Mitre @ Youtube - 2020/03/15 - grabado el 2020/03/14) (comienza en 5:34)
+
+
+- [What Coronavirus Symptoms Look Like, Day By Day](https://www.youtube.com/watch?v=OOJqHPfG7pA) (Science Insider @ Youtube - 2020/03/18)
+
+
+- [Comparación sobre dispersión de partículas al toser](https://vimeo.com/399120258) (Bauhaus-Universität Weimar @ Vimeo - 2020/03/20)
+
+
+- [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) (minutephysics @ Youtube - 2020/03/27)
+
+
+- [Higiene personal y en casa con Deborah Garcia Bello. Especial COVID-19](https://www.youtube.com/watch?v=AyII2Q9eWj0) (Cristina Mitre @ Youtube - 2020/04/01) (comienza en 2:08)
+
+
+- [The New Coronavirus Cure? | COVID-19 Antivirals](https://www.youtube.com/watch?v=p0Su-xQHffM) (AsapSCIENCE @ Youtube - 2020/04/01)
+
+
+- [Where Did COVID-19 Come From?](https://www.youtube.com/watch?v=25CoBK2ePww) (New Mind @ Youtube - 2020/04/02)
+
+
+
+### Canales
+
+
+- [Dr. John Campbell](https://www.youtube.com/user/Campbellteaching/videos) (Campbellteaching @ Youtube)
+
+
 
