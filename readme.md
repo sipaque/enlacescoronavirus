@@ -17,6 +17,9 @@
 - [/r/COVID19_Support](https://www.reddit.com/r/COVID19_Support)
 
 
+- [/r/China_Flu](https://old.reddit.com/r/China_Flu/)
+
+
 
 ### Twitter
 
@@ -173,7 +176,13 @@
 ## Medios
 
 
-Nota: excluídos por información manipulada o amarillenta: El Español, Huffington Post, LaNacion.com.ar, Moncloa.com, Okdiario, Público, RT / Russia Today.
+Notas:
+
+
+- Excluídos por información manipulada o amarillenta: El Español, Huffington Post, LaNacion.com.ar, Moncloa.com, Okdiario, Público, RT / Russia Today.
+
+
+- Otros medios con abundante contenido sólo para suscriptores también son excluídos.
 
 
 
@@ -190,14 +199,14 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 ### Españoles
 
 
-[20Minutos](https://www.20minutos.es/minuteca/coronavirus/) // [ABC.es](https://www.abc.es/salud/enfermedades/coronavirus/) // [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus) // [Deia](https://www.deia.eus/tags/coronavirus.html) // [Diario16](https://diario16.com/tag/coronavirus/) // [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079) // [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html) // [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/) // [El Diario](https://www.eldiario.es/temas/coronavirus) // [El Mundo](https://www.elmundo.es/e/co/coronavirus.html) // [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html) // [El País](https://elpais.com/noticias/coronavirus/) // [El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419) // [Expansión](https://www.expansion.com/noticias/coronavirus.html) // [La Información](https://www.lainformacion.com/tags/coronavirus/) // [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html) // [La Provincia](https://www.laprovincia.es/tags/coronavirus.html) // [La Razón](https://www.larazon.es/tags/coronavirus/) // [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html) // [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html) // [La Nueva España](https://www.lne.es/tags/coronavirus.html) // [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html) // [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus) // [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/) // [Telemadrid](https://www.telemadrid.es/coronavirus-covid-19-madrid/) // [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/) // [Xataka](https://www.xataka.com/tag/coronavirus-wuhan)
+[20Minutos](https://www.20minutos.es/minuteca/coronavirus/) // [ABC.es](https://www.abc.es/salud/enfermedades/coronavirus/) // [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus) // [Deia](https://www.deia.eus/tags/coronavirus.html) // [Diario16](https://diario16.com/tag/coronavirus/) // [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079) // [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html) // [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/) // [El Diario](https://www.eldiario.es/temas/coronavirus) // [El Mundo](https://www.elmundo.es/e/co/coronavirus.html) // [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html) // [El País](https://elpais.com/noticias/coronavirus/) // [El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419) // [Expansión](https://www.expansion.com/noticias/coronavirus.html) // [Faro de Vigo](https://www.farodevigo.es/tags/coronavirus.html) // [La Información](https://www.lainformacion.com/tags/coronavirus/) // [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html) // [La Provincia](https://www.laprovincia.es/tags/coronavirus.html) // [La Razón](https://www.larazon.es/tags/coronavirus/) // [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html) // [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html) // [La Nueva España](https://www.lne.es/tags/coronavirus.html) // [La Voz de Galicia](https://www.lavozdegalicia.es/temas/coronavirus/) // [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html) // [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus) // [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/) // [Telemadrid](https://www.telemadrid.es/coronavirus-covid-19-madrid/) // [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/) // [Xataka](https://www.xataka.com/tag/coronavirus-wuhan)
 
 
 
 ### Internacionales
 
 
-[Al Jazeera](https://www.aljazeera.com/topics/events/coronavirus-outbreak.html) // [CNN](https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-06-20-intl-hnk/index.html) //  Medium.com :: [etiqueta 'coronavirus'](https://medium.com/tag/coronavirus) // [Mercury News](https://www.mercurynews.com/tag/coronavirus/) // [NBC News](https://www.nbcnews.com/health/coronavirus) // [Newsweek](https://www.newsweek.com/topic/coronavirus) // [Wired](https://www.wired.com/tag/coronavirus/)
+[Al Jazeera](https://www.aljazeera.com/topics/events/coronavirus-outbreak.html) // [CNN](https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-06-20-intl-hnk/index.html) //  [Euronews](https://www.euronews.com/tag/coronavirus) / [Canal de Youtube](https://www.youtube.com/user/euronewses/videos) // Medium.com :: [etiqueta 'coronavirus'](https://medium.com/tag/coronavirus) // [Mercury News](https://www.mercurynews.com/tag/coronavirus/) // [NBC News](https://www.nbcnews.com/health/coronavirus) // [Newsweek](https://www.newsweek.com/topic/coronavirus) // [Wired](https://www.wired.com/tag/coronavirus/)
 
 
 
@@ -284,7 +293,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 ### Gobierno y agencias italianas
 
 
-- Istituto Superiore di Sanità (ISS / ITA) :: [Coronavirus](https://www.epicentro.iss.it/coronavirus/) / [Sorveglianza integrata COVID-19: i principali dati nazionali](https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati)
+- Istituto Superiore di Sanità (ISS) :: [Coronavirus](https://www.epicentro.iss.it/coronavirus/) / [Sorveglianza integrata COVID-19: i principali dati nazionali](https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati)
 
 
 - Ministero della Salute :: [Nuovo coronavirus](https://www.salute.gov.it/nuovocoronavirus)
@@ -326,19 +335,22 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 ### Wikipedias
 
 
-- [en.Wikipedia - 2019–20 coronavirus pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic)
+- [en.Wikipedia.org - Severe acute respiratory syndrome coronavirus 2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2)
 
 
-- [en.Wikipedia - 2020 coronavirus pandemic in Spain](https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Spain)
+- [es.Wikipedia.org - COVID-19](https://es.wikipedia.org/wiki/COVID-19)
 
 
-- [en.Wikipedia - 2020 coronavirus pandemic in the United States](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States)
+- [en.Wikipedia.org - 2019–20 coronavirus pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic)
 
 
-- [es.Wikipedia - Pandemia de enfermedad por coronavirus de 2019-2020](https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2019-2020)
+- [en.Wikipedia.org - 2020 coronavirus pandemic in Spain](https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Spain)
 
 
-- [es.Wikipedia - COVID-19](https://es.wikipedia.org/wiki/COVID-19)
+- [en.Wikipedia.org - 2020 coronavirus pandemic in the United States](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States)
+
+
+- [es.Wikipedia.org - Pandemia de enfermedad por coronavirus de 2019-2020](https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2019-2020)
 
 
 
@@ -346,6 +358,13 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 
 
 - [COVID-19](https://semicyuc.org/covid-19/) (incluye documentos y enlaces de interés)
+
+
+
+### Johns Hopkins University
+
+
+- **[Coronavirus Resource Center](https://coronavirus.jhu.edu)**
 
 
 
@@ -412,7 +431,7 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 - [Margarita del Val: "Nos estamos preparando para una segunda oleada de esta pandemia"](https://www.vozpopuli.com/altavoz/next/preparando-segunda-oleada-pandemia_0_1341466766.html) (Voz Pópuli - 2020/03/30)
 
 
-- [Tienen que escuchar a este experto de COVID-19 de Corea del Sur](https://www.youtube.com/watch?v=xafPqcy3lwk) (Asian Boss Español @ Youtube - 2020/03/30 - grabado el 2020/03/24) (comienza en 1:34)
+- [Tienen que escuchar a este experto de COVID-19 de Corea del Sur](https://www.youtube.com/watch?v=xafPqcy3lwk) (Asian Boss Español @ Youtube - 2020/03/30 - grabado el 2020/03/24) (comienza en 1:34) / [You Need To Listen To This Leading COVID-19 Expert From South Korea](https://www.youtube.com/watch?v=gAk7aX5hksU) (ENG)
 
 
 - [Fernando Rodríguez Artalejo, epidemiólogo: "El confinamiento se alargará y la vuelta al trabajo la tendremos que hacer de forma escalonada"](https://www.eldiario.es/sociedad/Epidemiologo-entrevista_0_1011749916.html) (El Diario - 2020/04/01)
@@ -425,19 +444,43 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 - [What Actually Happens If You Get Coronavirus?](https://www.youtube.com/watch?v=OTYfke545vI) (AsapSCIENCE @ Youtube - 2020/01/29)
 
 
+- [Coronavirus: How the deadly epidemic sparked a global emergency](https://www.youtube.com/watch?v=ycrqXJYf1SU) (ABC News In-depth @ Youtube - 2020/02/24)
+
+
 - [Coronavirus: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=c09m5f7Gnic) (LastWeekTonight @ Youtube - 2020/03/01)
+
+
+- [How wildlife trade is linked to coronavirus ](https://www.youtube.com/watch?v=TPpoJGYlW54) (Vox @ Youtube - 2020/03/06)
 
 
 - [Qué hacer y qué NO hacer frente al coronavirus con Boticaria García. Especial COVID-19](https://www.youtube.com/watch?v=TbMdcvOmS2M) (Cristina Mitre @ Youtube - 2020/03/15 - grabado el 2020/03/14) (comienza en 5:34)
 
 
+- [Coronavirus II: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=_066dEkycr4) (LastWeekTonight @ Youtube - 2020/03/15)
+
+
 - [What Coronavirus Symptoms Look Like, Day By Day](https://www.youtube.com/watch?v=OOJqHPfG7pA) (Science Insider @ Youtube - 2020/03/18)
+
+
+- [How soap kills the coronavirus](https://www.youtube.com/watch?v=-LKVUarhtvE) (Vox @ Youtube - 2020/03/18)
 
 
 - [Comparación sobre dispersión de partículas al toser](https://vimeo.com/399120258) (Bauhaus-Universität Weimar @ Vimeo - 2020/03/20)
 
 
+- [Dr. Seema Yasmin Answers 50 of the Most Googled Coronavirus Questions](https://www.youtube.com/watch?v=JnD5nGbGW4g) (WIRED @ Youtube - 2020/03/20)
+
+
+- [Dr. Martin Blaser Answers Coronavirus Questions From Twitter](https://www.youtube.com/watch?v=X9qDKcUaPUo) (WIRED @ Youtube - 2020/03/21)
+
+
 - [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) (minutephysics @ Youtube - 2020/03/27)
+
+
+- [ER Doctor Explains How They're Handling Covid-19](https://www.youtube.com/watch?v=MKPFfn5X-vU) (WIRED @ Youtube - 2020/03/27)
+
+
+- [Coronavirus III: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=_066dEkycr4) (LastWeekTonight @ Youtube - 2020/03/29)
 
 
 - [Higiene personal y en casa con Deborah Garcia Bello. Especial COVID-19](https://www.youtube.com/watch?v=AyII2Q9eWj0) (Cristina Mitre @ Youtube - 2020/04/01) (comienza en 2:08)
@@ -446,7 +489,16 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 - [The New Coronavirus Cure? | COVID-19 Antivirals](https://www.youtube.com/watch?v=p0Su-xQHffM) (AsapSCIENCE @ Youtube - 2020/04/01)
 
 
+- [Coronavirus is not the flu. It's worse.](https://www.youtube.com/watch?v=FVIGhz3uwuQ) (Vox @ Youtube - 2020/04/01)
+
+
 - [Where Did COVID-19 Come From?](https://www.youtube.com/watch?v=25CoBK2ePww) (New Mind @ Youtube - 2020/04/02)
+
+
+- [Debunking 10 Coronavirus Myths ft. Dr. Seema Yasmin](https://www.youtube.com/watch?v=bI07A8tW3H0) (WIRED @ Youtube - 2020/04/03
+
+
+- [What Could Be The Fastest Way To End The Coronavirus Crisis? ](https://www.youtube.com/watch?v=aXW9cDN0IpY) (Science Insider @ Youtube - 2020/04/03)
 
 
 
@@ -456,4 +508,5 @@ Nota: excluídos por información manipulada o amarillenta: El Español, Huffing
 - [Dr. John Campbell](https://www.youtube.com/user/Campbellteaching/videos) (Campbellteaching @ Youtube)
 
 
+- [Dr. Mikhail Varshavski](https://www.youtube.com/channel/UC0QHWhjbe5fGJEPz3sVb6nw/videos) (Doctor Mike @ Youtube)
 
