@@ -7,7 +7,7 @@
 - [Estadísticas y cifras](#estadísticas-y-cifras)
 
 
-- [Gráficos / Mapas / Infografías](#gráficos-mapas-infografías)
+- [Gráficos, mapas e infografías](#gráficos-mapas-e-infografías)
 
 
 - [Medios](#medios)
@@ -25,7 +25,7 @@
 - [Entrevistas](#entrevistas)
 
 
-- [Vídeos divulgativos / Reportajes](#vídeos-divulgativos-reportajes)
+- [Vídeos divulgativos y reportajes](#vídeos-divulgativos-y-reportajes)
 
 
 
@@ -95,7 +95,7 @@
 
 
 
-## Gráficos / Mapas / Infografías
+## Gráficos, mapas e infografías
 
 
 - [nCoV2019.live](https://ncov2019.live)
@@ -483,7 +483,7 @@ Notas:
 
 
 
-## Vídeos divulgativos / Reportajes
+## Vídeos divulgativos y reportajes
 
 
 - [What Actually Happens If You Get Coronavirus?](https://www.youtube.com/watch?v=OTYfke545vI) (AsapSCIENCE @ Youtube - 2020/01/29)
