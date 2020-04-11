@@ -1,3 +1,38 @@
+## Contenidos
+
+
+- [Redes sociales](#redes-sociales)
+
+
+- [Estadísticas y cifras](#estadísticas-y-cifras)
+
+
+- [Gráficos / Mapas / Infografías](#gráficos-mapas-infografías)
+
+
+- [Medios](#medios)
+
+
+- [Agencias de noticias](#agencias-de-noticias)
+
+
+- [Gobiernos y agencias de sanidad](#gobiernos-y-agencias-de-sanidad)
+
+
+- [Entidades privadas](#entidades-privadas)
+
+
+- [Entrevistas](#entrevistas)
+
+
+- [Vídeos divulgativos / Reportajes](#vídeos-divulgativos-reportajes)
+
+
+
+---
+
+
+
 ## Redes sociales
 
 
@@ -217,7 +252,7 @@ Notas:
 
 
 
-## Información general :: Gobiernos y agencias de sanidad
+## Gobiernos y agencias de sanidad
 
 
 
@@ -328,7 +363,7 @@ Notas:
 
 
 
-## Información general :: Entidades privadas
+## Entidades privadas
 
 
 
@@ -389,7 +424,17 @@ Notas:
 
 
 
+### Otros
+
+
+- [The Hospitalist](https://www.the-hospitalist.org/hospitalist/coronavirus-updates)
+
+
+
 ## Entrevistas
+
+
+- ["Nunca hemos conseguido una vacuna contra los coronavirus del resfriado, el SARS o el MERS"](https://gacetamedica.com/investigacion/nunca-hemos-conseguido-vacuna-contra-los-coronavirus-del-resfriado-el-sars-o-el-mers/) (Gaceta Médica - 2020/02/12)
 
 
 - [Here’s what coronavirus does to the body](https://www.nationalgeographic.com/science/2020/02/here-is-what-coronavirus-does-to-the-body/) (National Geographic - 2020/02/18)
@@ -502,6 +547,12 @@ Notas:
 
 
 - [What Could Be The Fastest Way To End The Coronavirus Crisis? ](https://www.youtube.com/watch?v=aXW9cDN0IpY) (Science Insider @ Youtube - 2020/04/03)
+
+
+- [Everything You Need to Know About Wearing Masks ft. Dr. Seema Yasmin | Cause + Control](https://www.youtube.com/watch?v=MA9CC-OfBV8) (WIRED @ Youtube - 2020/04/08)
+
+
+- [Are Young People Safe?](https://www.youtube.com/watch?v=yWUHQaeTf9U) (AsapSCIENCIE @ Youtube - 2020/04/10)
 
 
 
