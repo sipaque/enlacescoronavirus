@@ -86,7 +86,13 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 ### Otros
 
 
-- Menéame.net :: [Búsqueda 'coronavirus'](https://www.meneame.net/search?p=tags&q=+coronavirus)
+- Menéame.net
+
+
+    - [Búsqueda 'coronavirus'](https://www.meneame.net/search?p=tags&q=+coronavirus)
+
+
+    - [Alemania y el conteo de muertos de COVID-19. Desmintiendo el bulo (con >30 artículos)](https://www.meneame.net/story/alemania-conteo-muertos-covid-19-desmintiendo-bulo-30-articulos-1) (2020/04/14)
 
 
 
@@ -103,7 +109,7 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 
 
 
-## Gráficos, mapas e infografías
+## Gráficos y mapas
 
 
 - [nCoV2019.live](https://ncov2019.live)
@@ -200,6 +206,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 
 
 - [Covid Trends](https://aatishb.com/covidtrends/)
+
+
+- [Expansión / Datosmacro.com - COVID-19 - Crisis del coronavirus](https://datosmacro.expansion.com/otros/coronavirus)
 
 
 
@@ -309,7 +318,7 @@ Notas:
 
 
 
-### CCDC (Chinese Center for Disease Control and Prevention)
+### CCDC (Chinese Center for Disease Control and Prevention / China)
 
 
 - [Tracking the Epidemic](https://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm) (PDF)
@@ -323,13 +332,20 @@ Notas:
 
 
 
-### Centers for Disease Control and Prevention (CDC / USA)
+### Centers for Disease Control and Prevention (CDC / EE.UU. de América)
 
 
 - [Coronavirus (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
 
 - [Cases in U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)
+
+
+
+### National Institutes Of Health (NIH / EE.UU. de América)
+
+
+- [Coronavirus (COVID-19](https://www.nih.gov/health-information/coronavirus)
 
 
 
@@ -490,6 +506,9 @@ Notas:
 - [Fernando Rodríguez Artalejo, epidemiólogo: "El confinamiento se alargará y la vuelta al trabajo la tendremos que hacer de forma escalonada"](https://www.eldiario.es/sociedad/Epidemiologo-entrevista_0_1011749916.html) (El Diario - 2020/04/01)
 
 
+- [Este experto de coronavirus de Corea del Sur contestará a todas tus preguntas](https://www.youtube.com/watch?v=GQAcL8z8R3I) (Asian Boss Español @ Youtube - 2020/04/15 - grabado el 2020/04/09)
+
+
 
 ## Vídeos divulgativos y reportajes
 
@@ -561,6 +580,12 @@ Notas:
 
 
 - [Are Young People Safe?](https://www.youtube.com/watch?v=yWUHQaeTf9U) (AsapSCIENCIE @ Youtube - 2020/04/10)
+
+
+- [What the coronavirus looks like up close ](https://www.youtube.com/watch?v=421fmflQX0E) (Vox @ Youtube - 2020/04/14)
+
+
+- [How Quarantines Are Enforced Around the World](https://www.youtube.com/watch?v=h9va5LGPH1w) (Wall Street Journal @ Youtube - 2020/04/14)
 
 
 
