@@ -34,7 +34,7 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - [Entidades privadas](#entidades-privadas)
 
 
-- [Entrevistas](#entrevistas)
+- [Artículos y entrevistas](#artículos-y-entrevistas)
 
 
 - [Vídeos divulgativos y reportajes](#vídeos-divulgativos-y-reportajes)
@@ -251,7 +251,7 @@ Notas:
 ### Españoles
 
 
-[20Minutos](https://www.20minutos.es/minuteca/coronavirus/) // [ABC.es](https://www.abc.es/salud/enfermedades/coronavirus/) // [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus) // [Deia](https://www.deia.eus/tags/coronavirus.html) // [Diario16](https://diario16.com/tag/coronavirus/) // [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079) // [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html) // [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/) // [El Diario](https://www.eldiario.es/temas/coronavirus) // [El Mundo](https://www.elmundo.es/e/co/coronavirus.html) // [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html) // [El País](https://elpais.com/noticias/coronavirus/) // [El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419) // [es.Euronews](https://es.euronews.com/tag/coronavirus) // [Expansión](https://www.expansion.com/noticias/coronavirus.html) // [Faro de Vigo](https://www.farodevigo.es/tags/coronavirus.html) // [Hipertextual](https://hipertextual.com/tag/covid-19) // [La Información](https://www.lainformacion.com/tags/coronavirus/) // [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html) // [La Provincia](https://www.laprovincia.es/tags/coronavirus.html) // [La Razón](https://www.larazon.es/tags/coronavirus/) // [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html) // [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html) // [La Nueva España](https://www.lne.es/tags/coronavirus.html) // [La Voz de Galicia](https://www.lavozdegalicia.es/temas/coronavirus/) // [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html) // [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus) // [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/) // [Telemadrid](https://www.telemadrid.es/coronavirus-covid-19-madrid/) // [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/) // [Xataka](https://www.xataka.com/tag/coronavirus-wuhan)
+[20Minutos](https://www.20minutos.es/minuteca/coronavirus/) // [ABC.es](https://www.abc.es/salud/enfermedades/coronavirus/) // [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus) // [Deia](https://www.deia.eus/tags/coronavirus.html) // [Diario16](https://diario16.com/tag/coronavirus/) // [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079) // [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html) // [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/) // [El Diario](https://www.eldiario.es/temas/coronavirus) // [El Mundo](https://www.elmundo.es/e/co/coronavirus.html) // [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html) // [El País](https://elpais.com/noticias/coronavirus/) // [El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419) // [es.Euronews](https://es.euronews.com/tag/coronavirus) // [Expansión](https://www.expansion.com/noticias/coronavirus.html) // [Faro de Vigo](https://www.farodevigo.es/tags/coronavirus.html) // [Hipertextual](https://hipertextual.com/tag/covid-19) // [La Información](https://www.lainformacion.com/tags/coronavirus/) // [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html) // [La Provincia](https://www.laprovincia.es/tags/coronavirus.html) // [La Razón](https://www.larazon.es/tags/coronavirus/) // [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html) // [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html) // [La Nueva España](https://www.lne.es/tags/coronavirus.html) // [La Voz de Galicia](https://www.lavozdegalicia.es/temas/coronavirus/) // [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html) // [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus) // [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/) // [Telemadrid](https://www.telemadrid.es/coronavirus-covid-19-madrid/) // [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/) // [Xataka](https://www.xataka.com/tag/coronavirus-wuhan) // [XLSemanal](https://www.xlsemanal.com/temas/coronavirus)
 
 
 
@@ -280,6 +280,9 @@ Notas:
 
 
 - [Instituto de Salud Carlos III](https://www.isciii.es) / **[Situación de COVID-19 en España](https://covid19.isciii.es)** / [Informes](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Paginas/InformesCOVID-19.aspx)
+
+
+- [Sistema de Vigilancia de la mortalidad diaria (MoMo)](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#nacional)
 
 
 - [Generalitat de Catalunya - Agencia de Calidad y Evaluación Sanitarias / Mapa oficial casos positivos COVID-19](https://aquas.gencat.cat/.content/IntegradorServeis/mapa_covid/atlas.html)
@@ -455,7 +458,7 @@ Notas:
 
 
 
-## Entrevistas
+## Artículos y entrevistas
 
 
 - ["Nunca hemos conseguido una vacuna contra los coronavirus del resfriado, el SARS o el MERS"](https://gacetamedica.com/investigacion/nunca-hemos-conseguido-vacuna-contra-los-coronavirus-del-resfriado-el-sars-o-el-mers/) (Gaceta Médica - 2020/02/12)
@@ -506,7 +509,10 @@ Notas:
 - [Fernando Rodríguez Artalejo, epidemiólogo: "El confinamiento se alargará y la vuelta al trabajo la tendremos que hacer de forma escalonada"](https://www.eldiario.es/sociedad/Epidemiologo-entrevista_0_1011749916.html) (El Diario - 2020/04/01)
 
 
-- [Este experto de coronavirus de Corea del Sur contestará a todas tus preguntas](https://www.youtube.com/watch?v=GQAcL8z8R3I) (Asian Boss Español @ Youtube - 2020/04/15 - grabado el 2020/04/09)
+- [Este experto de coronavirus de Corea del Sur contestará a todas tus preguntas](https://www.youtube.com/watch?v=GQAcL8z8R3I) (Asian Boss Español @ Youtube - 2020/04/15 - grabado el 2020/04/09) / [This Top Coronavirus Expert From South Korea Will Answer All Your Questions](https://www.youtube.com/watch?v=QwoNP9QWr4Y) (ENG)
+
+
+- [What we do and do not know about COVID-19’s infectious dose and viral load](https://theconversation.com/what-we-do-and-do-not-know-about-covid-19s-infectious-dose-and-viral-load-135991) (The Conversation - 2020/04/14)
 
 
 
@@ -586,6 +592,9 @@ Notas:
 
 
 - [How Quarantines Are Enforced Around the World](https://www.youtube.com/watch?v=h9va5LGPH1w) (Wall Street Journal @ Youtube - 2020/04/14)
+
+
+- [Covid-19 Immunity Compared to 6 Other Diseases (Common Cold, HIV, SARS, and More)](https://www.youtube.com/watch?v=ylot5uGyyLA) (WIRED @ Youtube - 2020/04/17)
 
 
 
