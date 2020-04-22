@@ -214,6 +214,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - [COVID-19 #CoronavirusDataPack](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) (Infografías interactivas)
 
 
+- [Coronavirus Disease (COVID-19)](https://ourworldindata.org/coronavirus)
+
+
 
 ### Otros
 
@@ -296,6 +299,9 @@ Notas:
 
 
 ### OMS (Organización Mundial de la Salud) / WHO (World Health Organization)
+
+
+- [Coronavirus (COVID-19)](https://covid19.who.int) (Gráficas y mapas infográficos)
 
 
 - **[Situation reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)** (PDF)
@@ -495,6 +501,9 @@ Notas:
 
 
 - [¿Por qué muchos pacientes se curan y especialmente los ancianos no?](https://theconversation.com/por-que-muchos-pacientes-se-curan-y-especialmente-los-ancianos-no-134932) (The Conversation - 2020/03/27)
+
+
+- [How Does the Coronavirus Compare With the Flu?](https://www.nytimes.com/article/coronavirus-vs-flu.html) (The New York Times - 2020/03/27)
 
 
 - [El daño colateral del gran hospital en Ifema: así queda desmantelada la atención primaria](https://elpais.com/espana/madrid/2020-03-28/el-dano-colateral-del-gran-hospital-en-ifema-asi-queda-desmantelada-la-atencion-primaria.html) (El País - 2020/03/28)
