@@ -211,6 +211,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - [Expansión / Datosmacro.com - COVID-19 - Crisis del coronavirus](https://datosmacro.expansion.com/otros/coronavirus)
 
 
+- [COVID-19 #CoronavirusDataPack](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) (Infografías interactivas)
+
+
 
 ### Otros
 
@@ -231,7 +234,7 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 Notas:
 
 
-- Excluídos por información manipulada o amarillenta: El Español, Huffington Post, LaNacion.com.ar, Moncloa.com, Okdiario, Público, RT / Russia Today.
+- Excluídos por información manipulada o amarillenta: El Español, El Independiente, Huffington Post, LaNacion.com.ar, Moncloa.com, Okdiario, Público, RT / Russia Today.
 
 
 - Otros medios con abundante contenido sólo para suscriptores también son excluídos.
@@ -251,7 +254,7 @@ Notas:
 ### Españoles
 
 
-[20Minutos](https://www.20minutos.es/minuteca/coronavirus/) // [ABC.es](https://www.abc.es/salud/enfermedades/coronavirus/) // [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus) // [Deia](https://www.deia.eus/tags/coronavirus.html) // [Diario16](https://diario16.com/tag/coronavirus/) // [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079) // [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html) // [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/) // [El Diario](https://www.eldiario.es/temas/coronavirus) // [El Mundo](https://www.elmundo.es/e/co/coronavirus.html) // [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html) // [El País](https://elpais.com/noticias/coronavirus/) // [El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419) // [es.Euronews](https://es.euronews.com/tag/coronavirus) // [Expansión](https://www.expansion.com/noticias/coronavirus.html) // [Faro de Vigo](https://www.farodevigo.es/tags/coronavirus.html) // [Hipertextual](https://hipertextual.com/tag/covid-19) // [La Información](https://www.lainformacion.com/tags/coronavirus/) // [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html) // [La Provincia](https://www.laprovincia.es/tags/coronavirus.html) // [La Razón](https://www.larazon.es/tags/coronavirus/) // [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html) // [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html) // [La Nueva España](https://www.lne.es/tags/coronavirus.html) // [La Voz de Galicia](https://www.lavozdegalicia.es/temas/coronavirus/) // [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html) // [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus) // [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/) // [Telemadrid](https://www.telemadrid.es/coronavirus-covid-19-madrid/) // [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/) // [Xataka](https://www.xataka.com/tag/coronavirus-wuhan) // [XLSemanal](https://www.xlsemanal.com/temas/coronavirus)
+[20Minutos](https://www.20minutos.es/minuteca/coronavirus/) // [ABC.es](https://www.abc.es/salud/enfermedades/coronavirus/) // [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus) // [Deia](https://www.deia.eus/tags/coronavirus.html) // [Diario16](https://diario16.com/tag/coronavirus/) // [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079) // [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html) // [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/) // [El Diario](https://www.eldiario.es/temas/coronavirus) // [El Mundo](https://www.elmundo.es/e/co/coronavirus.html) // [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html) // [El País](https://elpais.com/noticias/coronavirus/) / [La crisis del coronavirus](https://elpais.com/sociedad/crisis-del-coronavirus/) // [El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419) // [es.Euronews](https://es.euronews.com/tag/coronavirus) // [Expansión](https://www.expansion.com/noticias/coronavirus.html) // [Faro de Vigo](https://www.farodevigo.es/tags/coronavirus.html) // [Hipertextual](https://hipertextual.com/tag/covid-19) // [La Información](https://www.lainformacion.com/tags/coronavirus/) // [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html) // [La Provincia](https://www.laprovincia.es/tags/coronavirus.html) // [La Razón](https://www.larazon.es/tags/coronavirus/) // [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html) // [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html) // [La Nueva España](https://www.lne.es/tags/coronavirus.html) // [La Voz de Galicia](https://www.lavozdegalicia.es/temas/coronavirus/) // [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html) // [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus) // [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/) // [Telemadrid](https://www.telemadrid.es/coronavirus-covid-19-madrid/) // [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/) // [Xataka](https://www.xataka.com/tag/coronavirus-wuhan) // [XLSemanal](https://www.xlsemanal.com/temas/coronavirus)
 
 
 
@@ -515,6 +518,9 @@ Notas:
 - [What we do and do not know about COVID-19’s infectious dose and viral load](https://theconversation.com/what-we-do-and-do-not-know-about-covid-19s-infectious-dose-and-viral-load-135991) (The Conversation - 2020/04/14)
 
 
+- [¿Hay que desinfectar la comida y los envases para evitar contagios?](https://elcomidista.elpais.com/elcomidista/2020/04/16/articulo/1587043302_850699.html) (El Comidista - 2020/04/16)
+
+
 
 ## Vídeos divulgativos y reportajes
 
@@ -599,6 +605,9 @@ Notas:
 
 
 ### Canales
+
+
+- [Dr. Iván Moreno](https://www.youtube.com/channel/UCfg-cWo4EHQP0mzXxSPnM6g/videos) (Iván Moreno @ Youtube)
 
 
 - [Dr. John Campbell](https://www.youtube.com/user/Campbellteaching/videos) (Campbellteaching @ Youtube)
