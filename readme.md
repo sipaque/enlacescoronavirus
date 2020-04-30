@@ -73,6 +73,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - [@SanidadGob - Ministerio de Sanidad, Consumo y Bienestar Social](https://twitter.com/sanidadgob/)
 
 
+- [@CIBER_ISCIII - Centro de Investigación Biomédica en Red. Instituto de Salud Carlos III](https://twitter.com/CIBER_ISCIII)
+
+
 - [@WHO - World Health Organization](https://twitter.com/WHO)
 
 
@@ -237,7 +240,7 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 Notas:
 
 
-- Excluídos por información manipulada o amarillenta: El Español, El Independiente, Huffington Post, LaNacion.com.ar, Moncloa.com, Okdiario, Público, RT / Russia Today.
+- Excluídos por información manipulada o amarillenta: ABC.es, El Español, El Independiente, Huffington Post, LaNacion.com.ar, Moncloa.com, Okdiario, Público, RT / Russia Today.
 
 
 - Otros medios con abundante contenido sólo para suscriptores también son excluídos.
@@ -257,7 +260,7 @@ Notas:
 ### Españoles
 
 
-[20Minutos](https://www.20minutos.es/minuteca/coronavirus/) // [ABC.es](https://www.abc.es/salud/enfermedades/coronavirus/) // [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus) // [Deia](https://www.deia.eus/tags/coronavirus.html) // [Diario16](https://diario16.com/tag/coronavirus/) // [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079) // [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html) // [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/) // [El Diario](https://www.eldiario.es/temas/coronavirus) // [El Mundo](https://www.elmundo.es/e/co/coronavirus.html) // [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html) // [El País](https://elpais.com/noticias/coronavirus/) / [La crisis del coronavirus](https://elpais.com/sociedad/crisis-del-coronavirus/) // [El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419) // [es.Euronews](https://es.euronews.com/tag/coronavirus) // [Expansión](https://www.expansion.com/noticias/coronavirus.html) // [Faro de Vigo](https://www.farodevigo.es/tags/coronavirus.html) // [Hipertextual](https://hipertextual.com/tag/covid-19) // [La Información](https://www.lainformacion.com/tags/coronavirus/) // [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html) // [La Provincia](https://www.laprovincia.es/tags/coronavirus.html) // [La Razón](https://www.larazon.es/tags/coronavirus/) // [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html) // [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html) // [La Nueva España](https://www.lne.es/tags/coronavirus.html) // [La Voz de Galicia](https://www.lavozdegalicia.es/temas/coronavirus/) // [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html) // [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus) // [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/) // [Telemadrid](https://www.telemadrid.es/coronavirus-covid-19-madrid/) // [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/) // [Xataka](https://www.xataka.com/tag/coronavirus-wuhan) // [XLSemanal](https://www.xlsemanal.com/temas/coronavirus)
+[20Minutos](https://www.20minutos.es/minuteca/coronavirus/) // [Canarias7](https://www.canarias7.es/tag/-/meta/coronavirus) // [Deia](https://www.deia.eus/tags/coronavirus.html) // [Diario16](https://diario16.com/tag/coronavirus/) // [Diari de Tarragona](https://www.diaridetarragona.com/coronavirus-t10079) // [Diario de Mallorca](https://www.diariodemallorca.es/tags/coronavirus.html) // [El Confidencial](https://www.elconfidencial.com/tags/temas/coronavirus-20888/) // [El Diario](https://www.eldiario.es/temas/coronavirus) // [El Mundo](https://www.elmundo.es/e/co/coronavirus.html) // [El Norte de Castilla](https://www.elnortedecastilla.es/temas/generales/coronavirus.html) // [El País](https://elpais.com/noticias/coronavirus/) / [La crisis del coronavirus](https://elpais.com/sociedad/crisis-del-coronavirus/) // [El Periódico](https://www.elperiodico.com/es/temas/coronavirus-noticias-43419) // [es.Euronews](https://es.euronews.com/tag/coronavirus) // [Expansión](https://www.expansion.com/noticias/coronavirus.html) // [Faro de Vigo](https://www.farodevigo.es/tags/coronavirus.html) // [Hipertextual](https://hipertextual.com/tag/covid-19) // [La Información](https://www.lainformacion.com/tags/coronavirus/) // [La Opinión - A Coruña](https://www.laopinioncoruna.es/tags/coronavirus.html) // [La Provincia](https://www.laprovincia.es/tags/coronavirus.html) // [La Razón](https://www.larazon.es/tags/coronavirus/) // [La Rioja](	https://www.larioja.com/temas/generales/coronavirus.html) // [Levante - El Mercantil Valenciano](https://www.levante-emv.com/tags/coronavirus.html) // [La Nueva España](https://www.lne.es/tags/coronavirus.html) // [La Voz de Galicia](https://www.lavozdegalicia.es/temas/coronavirus/) // [Noticias de Navarra](https://www.noticiasdenavarra.com/tags/coronavirus.html) // [Nueva Tribuna](https://www.nuevatribuna.es/tags/coronavirus) // [Radio y Televisión Española](https://www.rtve.es/noticias/coronavirus-covid-19/) // [Telemadrid](https://www.telemadrid.es/coronavirus-covid-19-madrid/) // [Voz Populi](https://www.vozpopuli.com/tag/coronavirus/) // [Xataka](https://www.xataka.com/tag/coronavirus-wuhan) // [XLSemanal](https://www.xlsemanal.com/temas/coronavirus)
 
 
 
@@ -530,6 +533,15 @@ Notas:
 - [¿Hay que desinfectar la comida y los envases para evitar contagios?](https://elcomidista.elpais.com/elcomidista/2020/04/16/articulo/1587043302_850699.html) (El Comidista - 2020/04/16)
 
 
+- [Nociones básicas de epidemiología para saber que no sabemos (casi) nada sobre la pandemia del COVID-19](https://la-u.org/nociones-basicas-de-epidemiologia-para-saber-que-no-sabemos-casi-nada-sobre-la-pandemia-del-covid-19/) (LaU - 2020/04/21)
+
+
+- [Gafas empañadas y tensión, así han sido las primeras autopsias de covid-19 en España](https://www.vozpopuli.com/altavoz/next/Gafas-empanadas-primeras-autopsias-Espana_0_1350466357.html) (Voz Pópuli - 2020/04/29)
+
+
+- [Le preguntamos al experto en vacunas más destacado mundialmente sobre la vacuna contra la COVID-19](https://www.youtube.com/watch?v=2C5VdNjBXZM) (Asian Boss Español @ Youtube - 2020/04/29) / [We Asked The World’s Leading Vaccine Expert About COVID-19 Vaccine](https://www.youtube.com/watch?v=5cYWd0N8nO4) (ENG)
+
+
 
 ## Vídeos divulgativos y reportajes
 
@@ -597,7 +609,10 @@ Notas:
 - [What Could Be The Fastest Way To End The Coronavirus Crisis? ](https://www.youtube.com/watch?v=aXW9cDN0IpY) (Science Insider @ Youtube - 2020/04/03)
 
 
-- [Everything You Need to Know About Wearing Masks ft. Dr. Seema Yasmin | Cause + Control](https://www.youtube.com/watch?v=MA9CC-OfBV8) (WIRED @ Youtube - 2020/04/08)
+- [El origen del coronavirus SARSCov2 ](https://www.youtube.com/watch?v=Kx36E0Cs8tw) (Ignacio López-Goñi @ Youtube - 2020/04/03) (aviso: sonido muy bajo)
+
+
+- [Everything You Need to Know About Wearing Masks ft. Dr. Seema Yasmin](https://www.youtube.com/watch?v=MA9CC-OfBV8) (WIRED @ Youtube - 2020/04/08)
 
 
 - [Are Young People Safe?](https://www.youtube.com/watch?v=yWUHQaeTf9U) (AsapSCIENCIE @ Youtube - 2020/04/10)
@@ -609,7 +624,22 @@ Notas:
 - [How Quarantines Are Enforced Around the World](https://www.youtube.com/watch?v=h9va5LGPH1w) (Wall Street Journal @ Youtube - 2020/04/14)
 
 
+- [El origen genético del coronavirus](https://www.youtube.com/watch?v=rQoDrrxDuW8) (Instituto de Física Teórica IFT @ Youtube - 2020/04/14)
+
+
 - [Covid-19 Immunity Compared to 6 Other Diseases (Common Cold, HIV, SARS, and More)](https://www.youtube.com/watch?v=ylot5uGyyLA) (WIRED @ Youtube - 2020/04/17)
+
+
+- [What face masks actually do against coronavirus](https://www.youtube.com/watch?v=P27HRClMf2U) (Vox @ Youtube - 2020/04/22)
+
+
+- [Why COVID-19 Death Predictions Will Always Be Wrong](https://www.youtube.com/watch?v=olu4BLfulDg) (Science Insider @ Youtube - 2020/04/24)
+
+
+- [Why We're Almost Certainly Undercounting the Coronavirus Dead](https://www.youtube.com/watch?v=ugvxQNQU3tU) (VICE News @ Youtube - 2020/04/28)
+
+
+- [How coronavirus charts can mislead us](https://www.youtube.com/watch?v=O-3Mlj3MQ_Q) (Vox @ Youtube - 2020/04/28)
 
 
 
