@@ -536,6 +536,9 @@ Notas:
 - [Nociones básicas de epidemiología para saber que no sabemos (casi) nada sobre la pandemia del COVID-19](https://la-u.org/nociones-basicas-de-epidemiologia-para-saber-que-no-sabemos-casi-nada-sobre-la-pandemia-del-covid-19/) (LaU - 2020/04/21)
 
 
+- [Esto es lo que los virólogos sabemos hasta hoy sobre el coronavirus SARS-CoV-2](https://theconversation.com/esto-es-lo-que-los-virologos-sabemos-hasta-hoy-sobre-el-coronavirus-sars-cov-2-137274) (The Conversation - 2020/04/28)
+
+
 - [Gafas empañadas y tensión, así han sido las primeras autopsias de covid-19 en España](https://www.vozpopuli.com/altavoz/next/Gafas-empanadas-primeras-autopsias-Espana_0_1350466357.html) (Voz Pópuli - 2020/04/29)
 
 
@@ -640,6 +643,9 @@ Notas:
 
 
 - [How coronavirus charts can mislead us](https://www.youtube.com/watch?v=O-3Mlj3MQ_Q) (Vox @ Youtube - 2020/04/28)
+
+
+- [¡Aprende a utilizar bien las mascarillas!](https://www.youtube.com/watch?v=cSJtZAacGTg) (Saber Vivir - La 2 @ Youtube - 2020/05/04)
 
 
 
