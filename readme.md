@@ -545,6 +545,9 @@ Notas:
 - [Le preguntamos al experto en vacunas más destacado mundialmente sobre la vacuna contra la COVID-19](https://www.youtube.com/watch?v=2C5VdNjBXZM) (Asian Boss Español @ Youtube - 2020/04/29) / [We Asked The World’s Leading Vaccine Expert About COVID-19 Vaccine](https://www.youtube.com/watch?v=5cYWd0N8nO4) (ENG)
 
 
+- [Johan Giesecke, máximo epidemiólogo sueco: "El coronavirus se propaga como un incendio y no importa lo que uno haga, todos se van a contagiar"](https://www.infobae.com/america/mundo/2020/05/09/johan-giesecke-maximo-epidemiologo-sueco-el-coronavirus-se-propaga-como-un-incendio-y-no-importa-lo-que-uno-haga-todos-se-van-a-contagiar/) (Infobae - 2020/05/11)
+
+
 
 ## Vídeos divulgativos y reportajes
 
@@ -589,6 +592,9 @@ Notas:
 
 
 - [Coronavirus III: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=_066dEkycr4) (LastWeekTonight @ Youtube - 2020/03/29)
+
+
+- [Covid-19: LaVision imaging technique shows how masks restrict the spread of exhaled air](https://www.youtube.com/watch?v=kYJvU81DKgk) (2020/03/31)
 
 
 - [Higiene personal y en casa con Deborah Garcia Bello. Especial COVID-19](https://www.youtube.com/watch?v=AyII2Q9eWj0) (Cristina Mitre @ Youtube - 2020/04/01) (comienza en 2:08)
@@ -646,6 +652,12 @@ Notas:
 
 
 - [¡Aprende a utilizar bien las mascarillas!](https://www.youtube.com/watch?v=cSJtZAacGTg) (Saber Vivir - La 2 @ Youtube - 2020/05/04)
+
+
+- [How Does Coronavirus Antibody Testing Work?](https://www.youtube.com/watch?v=bYTG7K3YlZ0) (The New York Times @ Youtube - 2020/05/08)
+
+
+- [What Coronavirus Recovery Looks Like, Day By Day](https://www.youtube.com/watch?v=LfpbRQIa_Zo) (Science Insider @ Youtube - 2020/05/14)
 
 
 
