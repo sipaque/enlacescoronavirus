@@ -220,6 +220,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - [Coronavirus Disease (COVID-19)](https://ourworldindata.org/coronavirus)
 
 
+- [An Incalculable Loss](https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html) (The New York Times - 2020/05/27)
+
+
 
 ### Otros
 
@@ -548,6 +551,15 @@ Notas:
 - [Johan Giesecke, máximo epidemiólogo sueco: "El coronavirus se propaga como un incendio y no importa lo que uno haga, todos se van a contagiar"](https://www.infobae.com/america/mundo/2020/05/09/johan-giesecke-maximo-epidemiologo-sueco-el-coronavirus-se-propaga-como-un-incendio-y-no-importa-lo-que-uno-haga-todos-se-van-a-contagiar/) (Infobae - 2020/05/11)
 
 
+- [Especialista en coronavirus reacciona a teorías conspirativas sobre la COVID-19](https://www.youtube.com/watch?v=afy-88djpWw) (Asian Boss Español @ Youtube - 2020/05/18)
+
+
+- [Los niños tienen una prevalencia de anticuerpos de la COVID-19 similar a los adultos pero más del 99% presentan síntomas leves](https://www.sjdhospitalbarcelona.org/es/ninos-tienen-prevalencia-anticuerpos-covid-19-similar-adultos-pero-mayoria-con-sintomas-leves) (Hospital Sant Joan de Déu - 2020/06/09)
+
+
+- [Experto en vacunas habla sobre las conspiraciones que rodean la vacuna contra la COVID-19](https://www.youtube.com/watch?v=5Mttke0nnuQ) (Asian Boss Español @ Youtube - 2020/06/18)
+
+
 
 ## Vídeos divulgativos y reportajes
 
@@ -658,6 +670,15 @@ Notas:
 
 
 - [What Coronavirus Recovery Looks Like, Day By Day](https://www.youtube.com/watch?v=LfpbRQIa_Zo) (Science Insider @ Youtube - 2020/05/14)
+
+
+- [The US tested the wrong people for coronavirus](https://www.youtube.com/watch?v=r6ewlQs8CAQ) (Vox @ Youtube - 2020/05/23)
+
+
+- [How We Know The Coronavirus Wasn’t Made In A Lab](https://www.youtube.com/watch?v=r5Nvom5e9vQ) (Science Insider @ Youtube 2020/06/05)
+
+
+- [Empty middle seats on planes won't stop the coronavirus](https://www.youtube.com/watch?v=9Em0FSsI_VU) (Vox @ Youtube - 2020/06/17)
 
 
 
