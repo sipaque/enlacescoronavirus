@@ -554,6 +554,9 @@ Notas:
 - [Especialista en coronavirus reacciona a teorías conspirativas sobre la COVID-19](https://www.youtube.com/watch?v=afy-88djpWw) (Asian Boss Español @ Youtube - 2020/05/18)
 
 
+- [Margarita del Val: "La culpa solo la tiene el virus"](https://www.infolibre.es/noticias/tintalibre/2020/05/29/margarita_del_val_culpa_solo_tiene_virus_107202_1042.html) (infoLibre - 2020/06/01)
+
+
 - [Los niños tienen una prevalencia de anticuerpos de la COVID-19 similar a los adultos pero más del 99% presentan síntomas leves](https://www.sjdhospitalbarcelona.org/es/ninos-tienen-prevalencia-anticuerpos-covid-19-similar-adultos-pero-mayoria-con-sintomas-leves) (Hospital Sant Joan de Déu - 2020/06/09)
 
 
@@ -689,6 +692,9 @@ Notas:
 
 
 - [Dr. John Campbell](https://www.youtube.com/user/Campbellteaching/videos) (Campbellteaching @ Youtube)
+
+
+- [Dr. Mike Hansen](https://www.youtube.com/c/DoctorMikeHansen/videos) (Doctor Mike Hansen @ Youtube)
 
 
 - [Dr. Mikhail Varshavski](https://www.youtube.com/channel/UC0QHWhjbe5fGJEPz3sVb6nw/videos) (Doctor Mike @ Youtube)
