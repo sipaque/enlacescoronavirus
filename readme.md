@@ -124,6 +124,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - Worldometer.info :: [Coronavirus](https://www.worldometers.info/coronavirus/) / [Countries](https://www.worldometers.info/coronavirus/#countries) / **[Spain](https://www.worldometers.info/coronavirus/country/spain/)**
 
 
+- [Coronadatos.es](https://coronadatos.es)
+
+
 - [Coronavirus.app](https://coronavirus.app/map?mode=infected)
 
 
@@ -563,6 +566,9 @@ Notas:
 - [Experto en vacunas habla sobre las conspiraciones que rodean la vacuna contra la COVID-19](https://www.youtube.com/watch?v=5Mttke0nnuQ) (Asian Boss Español @ Youtube - 2020/06/18)
 
 
+- [Margarita del Val (viróloga): “Esto va para muchos meses” ](https://www.elsaltodiario.com/coronavirus/margarita-val-cientifica-virologia-csic-oleada-covid-19-verano-2020) (El Salto Diario - 2020/07/26)
+
+
 
 ## Vídeos divulgativos y reportajes
 
@@ -682,6 +688,24 @@ Notas:
 
 
 - [Empty middle seats on planes won't stop the coronavirus](https://www.youtube.com/watch?v=9Em0FSsI_VU) (Vox @ Youtube - 2020/06/17)
+
+
+- [¿Cómo me pongo correctamente la mascarilla?](https://www.youtube.com/watch?v=sa7yCG67SPc) (elDiarioes @ Youtube - 2020/07/29)
+
+
+- [¿Cómo guardar la mascarilla para comer y beber?](https://www.youtube.com/watch?v=-BoHiECd5N8) (elDiarioes @ Youtube - 2020/07/29)
+
+
+- [¿Qué NO hay que hacer con la mascarilla?](https://www.youtube.com/watch?v=ZVEgWHcTJO8) (elDiarioes @ Youtube - 2020/07/29)
+
+
+- [The coronavirus is mutating. Now what?](https://www.youtube.com/watch?v=Djy3WNLz_mM) (Vox @ Youtube - 2020/08/07)
+
+
+- [Pathologists Debunk 14 New Myths About COVID-19](https://www.youtube.com/watch?v=VmQMGmpv8O0) (Science Insider @ Youtube - 2020/08/12)
+
+
+- [The risky way to speed up a coronavirus vaccine](https://www.youtube.com/watch?v=r2fxJI_cP58) (Vox @ Youtube - 2020/08/12)
 
 
 
