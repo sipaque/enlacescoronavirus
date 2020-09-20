@@ -2,7 +2,7 @@
 
 
 
-Listado de enlaces de información general y específica, incluyendo medios de difusion y audiovisuales, sobre el Coronavirus y la enfermedad COVID-19 
+Listado de enlaces de información general y específica, incluyendo medios de difusion y audiovisuales, sobre el Coronavirus (SARS-CoV-2) y la enfermedad COVID-19 
 
 
 
@@ -77,6 +77,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 
 
 - [@WHO - World Health Organization](https://twitter.com/WHO)
+
+
+- [@Covid19 Madrid - SPM](https://twitter.com/covid19_m)
 
 
 - [#Coronavirus](https://twitter.com/hashtag/coronavirus) / [#CoronavirusEspana](https://twitter.com/hashtag/coronavirusEspana)
@@ -224,6 +227,10 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 
 
 - [An Incalculable Loss](https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html) (The New York Times - 2020/05/27)
+
+
+- [COVID-19 Situación epidemiológica por zonas de salud (Madrid)](https://comunidadmadrid.maps.arcgis.com/apps/PublicInformation/index.html?appid=7db220dc2e0a40b4a928df661a89762e)
+
 
 
 
@@ -569,6 +576,9 @@ Notas:
 - [Margarita del Val (viróloga): “Esto va para muchos meses” ](https://www.elsaltodiario.com/coronavirus/margarita-val-cientifica-virologia-csic-oleada-covid-19-verano-2020) (El Salto Diario - 2020/07/26)
 
 
+- [¿Qué es una PCR?](https://www.eldiario.es/red/que-es/pcr_1_6216059.html) (El Diario - 2020/09/12)
+
+
 
 ## Vídeos divulgativos y reportajes
 
@@ -708,6 +718,9 @@ Notas:
 - [The risky way to speed up a coronavirus vaccine](https://www.youtube.com/watch?v=r2fxJI_cP58) (Vox @ Youtube - 2020/08/12)
 
 
+- [The Most Likely Timeline for a Vaccine](https://www.youtube.com/watch?v=j_8CINyQAVI) (AsapSCIENCIE @ Youtube - 2020/09/17)
+
+
 
 ### Canales
 
@@ -716,6 +729,9 @@ Notas:
 
 
 - [Dr. John Campbell](https://www.youtube.com/user/Campbellteaching/videos) (Campbellteaching @ Youtube)
+
+
+- [Dra. Marián García](https://www.youtube.com/channel/UCEAOJwm7aq9urjXSY1zEQEw/videos) (Boticaria García @ Youtube)
 
 
 - [Dr. Mike Hansen](https://www.youtube.com/c/DoctorMikeHansen/videos) (Doctor Mike Hansen @ Youtube)
