@@ -114,6 +114,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - Statista.com :: [El nuevo coronavirus (COVID-19) - Datos estadísticos](https://es.statista.com/temas/5901/el-coronavirus-de-wuhan/) (freemium)
 
 
+- [Datadista.com](https://datadista.com)
+
+
 
 ## Gráficos y mapas
 
@@ -124,7 +127,7 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 
-- Worldometer.info :: [Coronavirus](https://www.worldometers.info/coronavirus/) / [Countries](https://www.worldometers.info/coronavirus/#countries) / **[Spain](https://www.worldometers.info/coronavirus/country/spain/)**
+- Worldofmeters.info :: [Coronavirus](https://www.worldometers.info/coronavirus/) / [Countries](https://www.worldometers.info/coronavirus/#countries) / **[Spain](https://www.worldometers.info/coronavirus/country/spain/)**
 
 
 - [Coronadatos.es](https://coronadatos.es)
@@ -246,6 +249,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - [Modelización epidemiológica del COVID-19](https://covid19.webs.upv.es/index.html) (Grupo de investigación MUNQU de la Universitat Politècnica de València)
 
 
+- [The Multiplicative Power of Masks - An Explorable Essay on How Masks Can End COVID-19](https://aatishb.com/maskmath/) (Aatish Bhatia & Minute Physics)
+
+
 
 ## Medios
 
@@ -301,10 +307,13 @@ Notas:
 - Ministerio de Sanidad, Consumo y Bienestar Social :: [Enfermedad por nuevo coronavirus, COVID-19](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm) / [Situación actual](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)
 
 
-- [Instituto de Salud Carlos III](https://www.isciii.es) / **[Situación de COVID-19 en España](https://covid19.isciii.es)** / [Informes](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Paginas/InformesCOVID-19.aspx)
-
-
 - [Sistema de Vigilancia de la mortalidad diaria (MoMo)](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#nacional)
+
+
+- [Comunidad de Madrid: Situación epidemiológica actual](https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus#situacion-epidemiologica-actual)
+
+
+- [Instituto de Salud Carlos III](https://www.isciii.es) / **[Situación de COVID-19 en España](https://covid19.isciii.es)** / [Informes](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Paginas/InformesCOVID-19.aspx)
 
 
 - [Generalitat de Catalunya - Agencia de Calidad y Evaluación Sanitarias / Mapa oficial casos positivos COVID-19](https://aquas.gencat.cat/.content/IntegradorServeis/mapa_covid/atlas.html)
@@ -384,6 +393,13 @@ Notas:
 
 
 - Ministero della Salute :: [Nuovo coronavirus](https://www.salute.gov.it/nuovocoronavirus)
+
+
+
+### Gobierno francés
+
+
+- [Gouvernement - Informations Coronavirus](https://www.gouvernement.fr/info-coronavirus) / [Carte et donnees](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees)
 
 
 
@@ -577,6 +593,24 @@ Notas:
 
 
 - [¿Qué es una PCR?](https://www.eldiario.es/red/que-es/pcr_1_6216059.html) (El Diario - 2020/09/12)
+
+
+- [Margarita del Val: «No creo que tengamos una vacuna significativa en los próximos nueve meses»](https://www.nobbot.com/entrevistas/margarita-del-val/?cli_action=1600881748.027) (NobBot - 2020/09/16)
+
+
+- [What COVID-19 Reinfection Means for Vaccines](https://www.scientificamerican.com/article/what-covid-19-reinfection-means-for-vaccines/) (Scientific American - 2020/09/23)
+
+
+- [David Pestaña, jefe de anestesia y reanimación del Ramón y Cajal: "Estoy temblando con lo que viene ahora"](https://www.20minutos.es/noticia/4421764/0/david-pestana-ramon-y-cajal-coronavirus-temblando-viene-ahora/) (20Minutos - 2020/10/20)
+
+
+- [Fernando Almazán, científico que ha creado un clon de SARS-CoV-2: "Conocer al enemigo da armas para derrotarlo"](https://www.niusdiario.es/ciencia-y-tecnologia/ciencia/fernando-almazan-clon-infectivo-coronavirus-conocer-enemigo-armas-derrotarlo-vacunas-medicamentos_18_3031095228.html) (Nius - 2020/10/23)
+
+
+- [Dos linajes tempranos del virus originados en China dispararon la pandemia en España](https://www.vozpopuli.com/altavoz/next/virus-China-primera-ola-espana-pandemia_0_1403559912.html) (Voz Pópuli - 2020/10/26)
+
+
+- [España no tuvo 'paciente cero' de Covid sino varios eventos de superdifusión que descontrolaron la transmisión](https://www.20minutos.es/noticia/4432715/0/estudio-secuenciacion-covid-espana-paciente-cero-eventos-superdifusion-febrero-coronavirus-espana/) (20 Minutos - 2020/10/27)
 
 
 
