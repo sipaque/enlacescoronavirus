@@ -235,6 +235,8 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - [COVID-19 Situación epidemiológica por zonas de salud (Madrid)](https://comunidadmadrid.maps.arcgis.com/apps/PublicInformation/index.html?appid=7db220dc2e0a40b4a928df661a89762e)
 
 
+- [EPData · La evolución del coronavirus en cada comunidad de España ](https://www.epdata.es/datos/evolucion-coronavirus-cada-comunidad/518/madrid/304)
+
 
 
 ### Otros
@@ -611,6 +613,24 @@ Notas:
 
 
 - [España no tuvo 'paciente cero' de Covid sino varios eventos de superdifusión que descontrolaron la transmisión](https://www.20minutos.es/noticia/4432715/0/estudio-secuenciacion-covid-espana-paciente-cero-eventos-superdifusion-febrero-coronavirus-espana/) (20 Minutos - 2020/10/27)
+
+
+- [¿Cómo evitar contagios por aerosoles? ¿Cuánto durará la pandemia? ¿Pasaremos la Navidad confinados? Respuestas de Esther Samper a vuestras dudas](https://www.eldiario.es/sociedad/evitar-contagios-aerosoles-durara-pandemia-pasaremos-navidad-confinados-respuestas-esther-samper-dudas_1_6376694.html) (El Diario - 2020/10/31)
+
+
+- [Luis Enjuanes: "Nuestra vacuna neutraliza al virus en la puerta de entrada, las de ahora no lo hacen"](https://www.niusdiario.es/ciencia-y-tecnologia/ciencia/entrevista-luis-enjuanes-virologo-csic-nuestra-vacuna-neutraliza-virus-puerta-entrada-las-de-ahora-no-pfizer-moderna-astrazeneca-coronavirus-covid-19_18_3057345208.html) (Nius - 2020/12/13)
+
+
+- [Canadá describe todos los efectos secundarios de la vacuna Covid de Pfizer](https://www.redaccionmedica.com/la-revista/noticias/vacuna-covid-pfizer-todos-efectos-secundarios-canada-8215) (Redacción Médica - 2020/12/16)
+
+
+- [El jefe de la UCI del Marañón: “Pido que todos nos demos cuenta de que esto no está controlado”](https://elpais.com/espana/madrid/2020-12-22/el-jefe-de-la-uci-del-maranon-pido-que-todos-nos-demos-cuenta-de-que-esto-no-esta-controlado.html) (El Pais - 2020/12/22)
+
+
+- [Instrucciones para vacunarse contra la covid](https://elpais.com/ciencia/2020-12-26/instrucciones-para-vacunarse-contra-la-covid.html) (El País - 2020/12/27)
+
+
+- [Mariano Esteban: “Debemos estar preparados porque habrá más coronavirus”](https://theconversation.com/mariano-esteban-debemos-estar-preparados-porque-habra-mas-coronavirus-152550) (The Conversation - 2020/12/27)
 
 
 
