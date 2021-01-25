@@ -118,7 +118,7 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 
 
 
-## Gráficos y mapas
+## Gráficos, mapas y tablas
 
 
 - [nCoV2019.live](https://ncov2019.live)
@@ -130,7 +130,7 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - Worldofmeters.info :: [Coronavirus](https://www.worldometers.info/coronavirus/) / [Countries](https://www.worldometers.info/coronavirus/#countries) / **[Spain](https://www.worldometers.info/coronavirus/country/spain/)**
 
 
-- [Coronadatos.es](https://coronadatos.es)
+- [Coronadatos.es](https://coronadatos.es) / [Vacunas](https://coronadatos.es/Vacunas)
 
 
 - [Coronavirus.app](https://coronavirus.app/map?mode=infected)
@@ -238,6 +238,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - [EPData · La evolución del coronavirus en cada comunidad de España ](https://www.epdata.es/datos/evolucion-coronavirus-cada-comunidad/518/madrid/304)
 
 
+- [Vacunación COVID-19 en España](https://covid-vacuna.app)
+
+
 
 ### Otros
 
@@ -306,7 +309,7 @@ Notas:
 ### Gobierno y agencias españolas
 
 
-- Ministerio de Sanidad, Consumo y Bienestar Social :: [Enfermedad por nuevo coronavirus, COVID-19](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm) / [Situación actual](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)
+- Ministerio de Sanidad, Consumo y Bienestar Social :: [Enfermedad por nuevo coronavirus, COVID-19](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm) / [Situación actual](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/situacionActual.htm)
 
 
 - [Sistema de Vigilancia de la mortalidad diaria (MoMo)](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#nacional)
@@ -322,6 +325,9 @@ Notas:
 
 
 - [Seguridad Social - Cuestiones sobre situación especial COVID-19](https://www.seg-social.es/wps/portal/wss/internet/FAQ/897e30db-3172-4528-987f-ab1ffde1b8e7)
+
+
+- [Estrategia de vacunación COVID-19](https://www.vacunacovid.gob.es/)
 
 
 
@@ -631,6 +637,12 @@ Notas:
 
 
 - [Mariano Esteban: “Debemos estar preparados porque habrá más coronavirus”](https://theconversation.com/mariano-esteban-debemos-estar-preparados-porque-habra-mas-coronavirus-152550) (The Conversation - 2020/12/27)
+
+
+- [Nuevas claves de por qué la covid mata el doble a hombres que a mujeres](https://elpais.com/ciencia/2021-01-21/nuevas-claves-de-por-que-la-covid-mata-el-doble-a-hombres-que-a-mujeres.html) (El País - 2021/01/21)
+
+
+- [Calixto Sánchez Pérez: «Los efectos más graves del covid-19 me recuerdan al estado de un gran quemado»](https://www.informacion.es/elda/2021/01/23/calixto-sanchez-perez-efectos-graves-30605898.html) (Información.es - 2021/01/23)
 
 
 
