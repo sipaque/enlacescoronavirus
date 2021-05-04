@@ -241,6 +241,12 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - [Vacunación COVID-19 en España](https://covid-vacuna.app)
 
 
+- [Share of the population fully vaccinated against COVID-19](https://ourworldindata.org/grapher/share-people-fully-vaccinated-covid?tab=chart&stackMode=absolute&time=latest&country=AUT~BEL~European%20Union~FIN~FRA~DEU~ITA~PRT~ESP~GBR&region=World)
+
+
+- [TimeToHerd](https://timetoherd.com) - Días hasta el 70% de vacunación de una población.
+
+
 
 ### Otros
 
@@ -359,7 +365,13 @@ Notas:
 - [COVID-19](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
 
 
+- [Coronavirus response](https://ec.europa.eu/info/live-work-travel-eu/health/coronavirus-response_en)
+
+
 - **Situation update: [EU + UK](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea)** / **[Worldwide](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases)**
+
+
+- [COVID-19 Vaccine Tracker](https://vaccinetracker.ecdc.europa.eu/public/extensions/COVID-19/vaccine-tracker-mobile.html#uptake-tab)
 
 
 
@@ -408,13 +420,6 @@ Notas:
 
 
 - [Gouvernement - Informations Coronavirus](https://www.gouvernement.fr/info-coronavirus) / [Carte et donnees](https://www.gouvernement.fr/info-coronavirus/carte-et-donnees)
-
-
-
-### Comisión Europea
-
-
-- [Coronavirus response](https://ec.europa.eu/info/live-work-travel-eu/health/coronavirus-response_en)
 
 
 
@@ -645,6 +650,24 @@ Notas:
 - [Calixto Sánchez Pérez: «Los efectos más graves del covid-19 me recuerdan al estado de un gran quemado»](https://www.informacion.es/elda/2021/01/23/calixto-sanchez-perez-efectos-graves-30605898.html) (Información.es - 2021/01/23)
 
 
+- [Margarita del Val: “No existe el conocimiento para fabricar este virus”](https://www.lavanguardia.com/vida/20210304/6259679/margarita-del-val-es-improbable-virus-mute-hasta-driblar-vacunas.html) (La Vanguardia - 2021/03/04)
+
+
+- [El extraño síndrome que ataca a algunos niños un mes después de la infección por coronavirus](https://elpais.com/ciencia/2021-03-08/el-extrano-sindrome-que-ataca-a-algunos-ninos-un-mes-despues-de-la-infeccion-por-coronavirus.html) (El País - 2021/03/09)
+
+
+- [Luis Enjuanes: “Nuestra vacuna será muy potente, de una sola dosis y administrada por la nariz”](https://www.niusdiario.es/ciencia-y-tecnologia/ciencia/entrevista-luis-enjuanes-virologo-csic-nuestra-vacuna-espanola-potente-una-dosis-administrada-nariz_18_3110370065.html) (Nius - 2021/03/22)
+
+
+- [Por qué el SARS-CoV-2 lo tiene difícil para escapar de las vacunas](https://theconversation.com/por-que-el-sars-cov-2-lo-tiene-dificil-para-escapar-de-las-vacunas-158924) (The Conversation - 2021/04/13)  / [Sobre la capacidad de cambio del SARS-COV2, la formación de serotipos y la posibilidad de evasión de la respuesta inmune](http://www.madrimasd.org/blogs/virusemergentes/2021/04/sobre-la-capacidad-de-cambio-del-sars-cov2-la-formacion-de-serotipos-y-la-posibilidad-de-evasion-de-la-respuesta-inmune/) (Madrid+d - 2021/04/11)
+
+
+- [Olga Mediano, neumóloga: "Si notas el olor del tabaco, te están llegando los aerosoles"](https://www.niusdiario.es/sociedad/sanidad/olga-mediano-neumologa-si-notas-olor-tabaco-estan-llegando-aerosoles_18_3123495339.html) (Nius - 2021/04/17)
+
+
+- [Un estudio científico apunta a que el coronavirus es en realidad una enfermedad vascular y no respiratoria](https://www.niusdiario.es/sociedad/sanidad/estudio-cientifico-apunta-coronavirus-enferemdad-vascular-no-respiratoria-investigacion_18_3130845305.html) (Nius - 2021/05/01)
+
+
 
 ## Vídeos divulgativos y reportajes
 
@@ -785,6 +808,9 @@ Notas:
 
 
 - [The Most Likely Timeline for a Vaccine](https://www.youtube.com/watch?v=j_8CINyQAVI) (AsapSCIENCIE @ Youtube - 2020/09/17)
+
+
+- [Covid Vaccines: Last Week Tonight with John Oliver (HBO)](http://www.youtube.com/watch?v=gPHgRp70H8o) (LastWeekTonight @ Youtube - 2021/05/03)
 
 
 
