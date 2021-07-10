@@ -247,6 +247,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - [TimeToHerd](https://timetoherd.com) - Días hasta el 70% de vacunación de una población.
 
 
+- [Coronavirus Data Explorer - Our World in Data](https://ourworldindata.org/explorers/coronavirus-data-explorer)
+
+
 
 ### Otros
 
@@ -666,6 +669,15 @@ Notas:
 
 
 - [Un estudio científico apunta a que el coronavirus es en realidad una enfermedad vascular y no respiratoria](https://www.niusdiario.es/sociedad/sanidad/estudio-cientifico-apunta-coronavirus-enferemdad-vascular-no-respiratoria-investigacion_18_3130845305.html) (Nius - 2021/05/01)
+
+
+- [Tomás Segura, neurólogo: "El riesgo neurológico es mayor si la covid empieza con un problema gastrointestinal"](https://www.niusdiario.es/ciencia-y-tecnologia/ciencia/entrevista-tomas-segura-neurologo-problema-neurologico-covid-persistente-mas-probable-si-empezo-gastrointestinal_18_3133470247.html) (Nius - 2021/05/06)
+
+
+- [Joaquín López, infectólogo: “La atención primaria ha colapsado y esa presión ya se nota en los hospitales”](https://www.niusdiario.es/sociedad/sanidad/joaquin-lopez-atencion-primaria-colapsada-presion-hospitales-coronavirus_18_3166024719.html) (Nius - 2021/07/07)
+
+
+- [Más allá de la variante Delta de la covid: las otras cepas "de interés" que ya se han detectado en España](https://www.20minutos.es/noticia/4757544/0/variantes-coronavirus-covid-espana-8-julio-2021/) (20 Minutos - 2021/07/10)
 
 
 
