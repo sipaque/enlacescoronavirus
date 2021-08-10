@@ -95,6 +95,9 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - Menéame.net
 
 
+    - [/m/vacúname](https://www.meneame.net/m/vac%C3%BAname)
+
+
     - [Búsqueda 'coronavirus'](https://www.meneame.net/search?p=tags&q=+coronavirus)
 
 
@@ -108,7 +111,7 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - DXY.cn :: [COVID-19 Global Pandemic Real-time Report](https://ncov.dxy.cn/ncovh5/view/en_pneumonia) 
 
 
-- Youtube :: [Live - Coronavirus Pandemic: Real Time Counter, World Map, News](https://www.youtube.com/watch?v=qgylp3Td1Bw)
+- Youtube :: [[LIVE] Coronavirus Pandemic: Real Time Dashboard, World Maps, Charts, News](https://www.youtube.com/watch?v=NMre6IAAAiU) / [[LIVE] Active Cases - Coronavirus Pandemic : Real Time Counter, World Map, News]](https://www.youtube.com/watch?v=aSDuco7vUnc) / [[Live] Spikes in Cases and Deaths - Coronavirus Pandemic : Real Time Counter, World Map, News](https://www.youtube.com/watch?v=DrbSgHSt4Ks)
 
 
 - Statista.com :: [El nuevo coronavirus (COVID-19) - Datos estadísticos](https://es.statista.com/temas/5901/el-coronavirus-de-wuhan/) (freemium)
@@ -130,7 +133,7 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 - Worldofmeters.info :: [Coronavirus](https://www.worldometers.info/coronavirus/) / [Countries](https://www.worldometers.info/coronavirus/#countries) / **[Spain](https://www.worldometers.info/coronavirus/country/spain/)**
 
 
-- [Coronadatos.es](https://coronadatos.es) / [Vacunas](https://coronadatos.es/Vacunas)
+- [Coronadatos.es](https://coronadatos.es) / [Vacunas](https://coronadatos.es/Vacunas) | [Incidencia acumulada de casos diagnosticados en los últimos 14 días en ESPAÑA](https://coronadatos.es/Gr%C3%A1ficas/Casos14D%C3%ADasIA/ESPA%C3%91A/2020-02-21/2021-07-13/l%C3%ADneas)
 
 
 - [Coronavirus.app](https://coronavirus.app/map?mode=infected)
@@ -678,6 +681,12 @@ Notas:
 
 
 - [Más allá de la variante Delta de la covid: las otras cepas "de interés" que ya se han detectado en España](https://www.20minutos.es/noticia/4757544/0/variantes-coronavirus-covid-espana-8-julio-2021/) (20 Minutos - 2021/07/10)
+
+
+- [¿Qué ha ocurrido con la vacuna española que acaba de ser suspendida?](https://www.eldiario.es/sociedad/pasado-vacuna-espanola-suspendida-csic_1_8190983.html) (El Diario - 2021/08/02)
+
+
+- [¿Qué pasa cuando te contagias de Covid estando vacunado?](https://www.elmundo.es/ciencia-y-salud/salud/2021/08/03/6108cf92fc6c83ee208b459b.html) (El Mundo - 2021/08/03)
 
 
 
