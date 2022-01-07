@@ -35,7 +35,7 @@ Listado de enlaces de información general y específica, incluyendo medios de d
 
 ### Otros
 - Menéame.net
-    - [/m/vacúname](https://www.meneame.net/m/vac%C3%BAname)
+    - [**/m/vacúname**](https://www.meneame.net/m/vac%C3%BAname)
     - [Búsqueda 'coronavirus'](https://www.meneame.net/search?p=tags&q=+coronavirus)
     - [Alemania y el conteo de muertos de COVID-19. Desmintiendo el bulo (con >30 artículos)](https://www.meneame.net/story/alemania-conteo-muertos-covid-19-desmintiendo-bulo-30-articulos-1) (2020/04/14)
 
@@ -118,7 +118,7 @@ Notas:
 ## Gobiernos y agencias de sanidad
 
 ### Gobierno y agencias españolas
-- Ministerio de Sanidad, Consumo y Bienestar Social :: [Enfermedad por nuevo coronavirus, COVID-19](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm) / [Situación actual](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/situacionActual.htm)
+- Ministerio de Sanidad, Consumo y Bienestar Social :: [Enfermedad por nuevo coronavirus, COVID-19](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm) / [**Situación actual**](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/situacionActual.htm)
 - [Sistema de Vigilancia de la mortalidad diaria (MoMo)](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html#nacional)
 - [Comunidad de Madrid: Situación epidemiológica actual](https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus#situacion-epidemiologica-actual)
 - [Instituto de Salud Carlos III](https://www.isciii.es) / **[Situación de COVID-19 en España](https://covid19.isciii.es)** / [Informes](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Paginas/InformesCOVID-19.aspx)
@@ -242,6 +242,7 @@ Notas:
 - [El jefe de la UCI del Marañón: “Pido que todos nos demos cuenta de que esto no está controlado”](https://elpais.com/espana/madrid/2020-12-22/el-jefe-de-la-uci-del-maranon-pido-que-todos-nos-demos-cuenta-de-que-esto-no-esta-controlado.html) (El Pais - 2020/12/22)
 - [Instrucciones para vacunarse contra la covid](https://elpais.com/ciencia/2020-12-26/instrucciones-para-vacunarse-contra-la-covid.html) (El País - 2020/12/27)
 - [Mariano Esteban: “Debemos estar preparados porque habrá más coronavirus”](https://theconversation.com/mariano-esteban-debemos-estar-preparados-porque-habra-mas-coronavirus-152550) (The Conversation - 2020/12/27)
+- [8 sesgos cognitivos que explican por qué bajamos la guardia con la Covid](https://www.amaliorey.com/2021/01/17/8-sesgos-cognitivos-que-explican-por-que-bajamos-la-guardia-con-la-covid/) (Amalio Rey - 2021/01/17)
 - [Nuevas claves de por qué la covid mata el doble a hombres que a mujeres](https://elpais.com/ciencia/2021-01-21/nuevas-claves-de-por-que-la-covid-mata-el-doble-a-hombres-que-a-mujeres.html) (El País - 2021/01/21)
 - [Calixto Sánchez Pérez: «Los efectos más graves del covid-19 me recuerdan al estado de un gran quemado»](https://www.informacion.es/elda/2021/01/23/calixto-sanchez-perez-efectos-graves-30605898.html) (Información.es - 2021/01/23)
 - [Margarita del Val: “No existe el conocimiento para fabricar este virus”](https://www.lavanguardia.com/vida/20210304/6259679/margarita-del-val-es-improbable-virus-mute-hasta-driblar-vacunas.html) (La Vanguardia - 2021/03/04)
@@ -255,13 +256,28 @@ Notas:
 - [Joaquín López, infectólogo: “La atención primaria ha colapsado y esa presión ya se nota en los hospitales”](https://www.niusdiario.es/sociedad/sanidad/joaquin-lopez-atencion-primaria-colapsada-presion-hospitales-coronavirus_18_3166024719.html) (Nius - 2021/07/07)
 - [Más allá de la variante Delta de la covid: las otras cepas "de interés" que ya se han detectado en España](https://www.20minutos.es/noticia/4757544/0/variantes-coronavirus-covid-espana-8-julio-2021/) (20 Minutos - 2021/07/10)
 - [Qué pasa si te vacunas y tienes covid o síntomas propios del virus](https://www.heraldo.es/noticias/salud/2021/07/13/que-pasa-si-te-vacunas-tienes-covid-sintomas-coronavirus-1505979.html) (El Heraldo - 2021/07/13)
+- [Tasa de letalidad de la COVID-19](https://www.empireo.es/tasa-de-letalidad-de-la-covid-19/) (Empireo - 2021/08/01)
 - [¿Qué ha ocurrido con la vacuna española que acaba de ser suspendida?](https://www.eldiario.es/sociedad/pasado-vacuna-espanola-suspendida-csic_1_8190983.html) (El Diario - 2021/08/02)
 - [¿Qué pasa cuando te contagias de Covid estando vacunado?](https://www.elmundo.es/ciencia-y-salud/salud/2021/08/03/6108cf92fc6c83ee208b459b.html) (El Mundo - 2021/08/03)
 - [Corell, inmunólogo: "Infectarse con la variante delta después de vacunarse es muy posible"](https://www.elespanol.com/ciencia/salud/20210809/corell-inmunologo-infectarse-variante-despues-vacunarse-posible/602190214_0.html) (El Español - 2021/08/09)
 - [Las reinfecciones por coronavirus crecen en España: estas son las personas con mayor riesgo](https://www.elespanol.com/ciencia/salud/20210827/reinfecciones-coronavirus-crecen-espana-personas-mayor-riesgo/607190381_0.html) (El Español - 2021/08/27)
 - [Los cambios al azar en la proteína Spike hicieron universal a un virus humilde](https://www.eldiario.es/cienciacritica/cambios-azar-proteina-spike-hicieron-universal-virus-humilde_132_8408314.html) (El Diario - 2021/10/21)
+- [Confiar el control de la pandemia en España solo a la vacunación es un error, según los expertos ](https://www.eldiario.es/sociedad/confiar-control-pandemia-espana-vacunacion-error-expertos_1_8492037.html) (El Diario - 2021/11/15)
+- [Los nuevos antivirales anticipan una etapa diferente de la pandemia ](https://www.eldiario.es/sociedad/nuevos-antivirales-anticipan-etapa-diferente-pandemia_1_8503673.html) (El Diario - 2021/11/21)
+- [Qué sabemos de ómicron, la nueva variante de COVID detectada en Sudáfrica](https://www.eldiario.es/internacional/theguardian/omicron-nueva-variante-covid-detectada-sudafrica_1_8527661.html) (El Diario - 2021/11/26)
+- [García-Sastre, microbiólogo: "Un contagiado por delta infectaba a los 6 días, con ómicron a los 3"](https://www.niusdiario.es/sociedad/sanidad/entrevista-garcia-sastre-omicron-infecta-tres-dias_18_3254223189.html) (Nius - 2021/12/21)
+- [Buenas noticias sobre ómicron: las células T lo combaten y es menos voraz que delta](https://www.niusdiario.es/ciencia-y-tecnologia/ciencia/buenas-noticias-omicron-celulas-t-combaten-menos-voraz-delta-covid-variantes_18_3254220923.html)(Nius - 2021/12/22)
+- [La variante ómicron tiene un 80% menos de riesgo de hospitalización, según un estudio](https://www.lavanguardia.com/ciencia/20211222/7947570/coronavirus-variante-omicron-gravedad.html) (La Vanguardia - 2021/12/22)
+- [Las células T, más potentes frente a Ómicron](https://www.larazon.es/sociedad/20211223/frumowsbj5bfjgjctn4y57bkam.html) (La Razón - 2021/12/23)
+- [El nivel de Covid-19 en aguas residuales alcanza su máximo histórico en España](https://www.antena3.com/noticias/sociedad/nivel-covid19-aguas-residuales-alcanza-nivel-maximo-historico-espana_2021122461c57d1120b19a0001270376.html) (Antena3 - 2021/12/24)
+- [José Gómez Rial: “No se puede decir que las vacunas han perdido efectividad, es mentira y da gasolina para los antivacunas”](https://www.diariofarma.com/2021/12/18/no-se-puede-decir-es-que-las-vacunas-han-perdido-efectividad-es-mentira-y-da-gasolina-para-los-antivacunas) (DiarioFarma - 2021/12/24)
+- [Las vacunas y ómicron complican los test: por qué dan falso negativo hasta con síntomas](https://www.niusdiario.es/sociedad/sanidad/vacunados-tardan-mas-dar-positivo-test-antigenos-sintomas_18_3254749888.html) (Nius - 2021/12/24)
+- [La covid persistente y sus más de 200 secuelas ya tienen definición oficial](https://elpais.com/ciencia/2021-12-28/la-covid-persistente-y-sus-mas-de-200-secuelas-ya-tienen-definicion-oficial.html) (El País - 2021/12/28)
+- [La memoria inmunológica se vuelve menos duradera después de un COVID grave](https://www.infosalus.com/salud-investigacion/noticia-memoria-inmunologica-vuelve-menos-duradera-despues-covid-grave-20220103073547.html) (Infosalus - 2022/01/03)
+- ["Ómicron puede suponer el fin de la pandemia": los datos, argumentos y problemas de una promesa que ya hemos escuchado varias veces](https://www.xataka.com/medicina-y-salud/omicron-que-puede-suponer-fin-pandemia-datos-argumentos-problemas-promesa-que-hemos-escuchado-varias-veces) (Xataka - 2022/01/03)
 
 ## Vídeos divulgativos y reportajes
+- [Los efectos secundarios de las vacunas - ¿Cuán alto es el riesgo?](https://www.youtube.com/watch?v=zBkVCpbNnkU) (Kurzgesagt – In a Nutshell - 2019/09/12) / [ESP](https://www.youtube.com/watch?v=tWrk30zMRoo) 
 - [What Actually Happens If You Get Coronavirus?](https://www.youtube.com/watch?v=OTYfke545vI) (AsapSCIENCE @ Youtube - 2020/01/29)
 - [Coronavirus: How the deadly epidemic sparked a global emergency](https://www.youtube.com/watch?v=ycrqXJYf1SU) (ABC News In-depth @ Youtube - 2020/02/24)
 - [Coronavirus: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=c09m5f7Gnic) (LastWeekTonight @ Youtube - 2020/03/01)
